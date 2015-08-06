@@ -1,5 +1,5 @@
 {
-  "locales": [ "zh-cn", "de", "fr", "ja" ],
+  "locales": [ "zh-cn", "ja" ],
   "files": [
 	"**"
   ]
