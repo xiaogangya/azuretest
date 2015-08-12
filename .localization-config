@@ -1,6 +1,7 @@
 {
   "locales": [ "zh-cn", "ja" ],
   "files": [
+        "**",
 	"articles/architecture-overview.md",
 	"articles/azure-billing-set-up-alerts.md",
 	"articles/azure-portal-overview.md",
