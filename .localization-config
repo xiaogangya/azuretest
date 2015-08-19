@@ -1,5 +1,5 @@
 {
-  "locales": [ "zh-cn", "ja" ],
+  "locales": [ "de-de", "zh-Han" ],
   "files": [
 	"articles/architecture-overview.md",
 	"articles/azure-billing-set-up-alerts.md",
