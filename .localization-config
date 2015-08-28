@@ -3,5 +3,6 @@
   "files": [
 	"articles/app-service/*.md"
   ],
-  "includeDependencies": true
+  "includeDependencies": true,
+  "autoPush": false
 }
