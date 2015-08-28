@@ -1,7 +1,7 @@
 {
-  "locales": [ "ja", "zh-cn" ],
+  "locales": [ "zh-TW", "zh-CHS" ],
   "files": [
-	"articles/app-service/*"
+	"articles/app-service/*.md"
   ],
   "includeDependencies": true
 }
