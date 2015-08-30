@@ -11,5 +11,5 @@
         "articles/app-service/*.md"
   ],
   "includeDependencies": true,
-  "autoPush": false
+  "autoPush": true
 }
