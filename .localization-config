@@ -1,8 +1,8 @@
 {
-  "locales": [ "zh-TW", "zh-CHS" ],
+  "locales": [ "zh-TW" ],
   "files": [
-	"articles/app-service/*.md"
+	"articles/test/*.md"
   ],
-  "includeDependencies": true,
-  "autoPush": false
+  "includeDependencies": false,
+  "autoPush": true
 }
