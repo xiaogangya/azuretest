@@ -1,15 +1,10 @@
 {
-  "locales": [ "zh-cn", "ja" ],
+  "locales": [ "zh-cn" ],
   "files": [
-	"articles/architecture-overview.md",
-	"articles/azure-billing-set-up-alerts.md",
-	"articles/azure-portal-overview.md",
-	"articles/azure-preview-portal-supported-browsers-devices.md",
-	"articles/resource-group-advanced-template.md",
-	"articles/test/*",
-	"articles/media/active-directory-aadconnect/*",
-        "articles/app-service/*.md"
+    "*/*.md",
+    "*/**/*.md"
   ],
   "includeDependencies": true,
-  "autoPush": true
+  "autoPush": true,
+  "xliffVersion": "1.2"
 }
