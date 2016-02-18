@@ -73,3 +73,5 @@ Microsoft Patterns and Practices has published the book [Cloud Design Patterns](
 Microsoft publishes several architecture related posters/infographics. They include [Building Real-World Cloud Applications](http://azure.microsoft.com/documentation/infographics/building-real-world-cloud-apps/) and [Scaling with Cloud Services](http://azure.microsoft.com/documentation/infographics/cloud-services/) . 
 
 ![Azure Architecture Infographics](./media/architecture-overview/AzureArchInfographicThumb.jpg)
+
+add a line
