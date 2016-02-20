@@ -65,3 +65,4 @@ Some organizations, however, have particular reasons for using a federated sign 
 	- Active Directory integration features such as soft account lockout or AD password and work hours policy
 	- Conditional access to both on-premises and cloud resources using device registration, Azure AD join, or Intune MDM policies
  
+test

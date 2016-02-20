@@ -113,3 +113,4 @@ You can map the CDN HTTP endpoint to a custom domain name and use that name to r
 For more information on mapping a custom domain, see [How to Map Content Delivery Network (CDN) Content to a Custom Domain](http://msdn.microsoft.com/library/azure/gg680307.aspx).
 
  
+test

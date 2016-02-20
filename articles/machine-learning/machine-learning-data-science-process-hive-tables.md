@@ -324,3 +324,5 @@ The default parameter settings of Hive cluster might not be suitable for the Hiv
 [14]: ./media/machine-learning-data-science-process-hive-tables/output-hive-results-3.png
 [15]: ./media/machine-learning-data-science-process-hive-tables/run-hive-queries-3.png
  
+
+test

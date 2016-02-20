@@ -102,3 +102,4 @@ The following image shows an example of using a credential in a graphical runboo
 - [Links in graphical authoring](automation-graphical-authoring-intro.md#links-and-workflow)
 
  
+test

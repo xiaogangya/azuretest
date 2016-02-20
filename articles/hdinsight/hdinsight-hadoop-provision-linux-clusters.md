@@ -515,3 +515,5 @@ In this article, you have learned several ways to provision an HDInsight Hadoop 
 [img-hdi-cluster]: ./media/hdinsight-hadoop-provision-linux-clusters/HDI.Cluster.png
 
   [89e2276a]: /documentation/articles/hdinsight-use-sqoop/ "Use Sqoop with HDInsight"
+
+test

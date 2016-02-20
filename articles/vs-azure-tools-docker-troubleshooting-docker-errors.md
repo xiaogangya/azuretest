@@ -99,3 +99,5 @@ Q:  I'm using my own Linux server with Docker installed. How do I generate keys 
 A:  One way is to use OpenSSL on the server to generate the required certificates and keys for the CA, server, and client. You can then use third party software to establish an SSH/SFTP connection, and then copy the certificates to the local Windows development machine. By default, the Docker (CLI) will attempt to use certificates located in the `<userprofile>\.docker` folder.
 
 Another option is to download OpenSSL for Windows and generate the required certificates and keys, and then upload the CA, server certificates, and keys to the Linux machine. For more information on establishing a secure connection to Docker, see [Protecting the Docker daemon Socket with HTTPS](https://docs.docker.com/articles/https/).
+
+test

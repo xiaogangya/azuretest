@@ -52,3 +52,4 @@ This step concerns customized resources only. If you have customized the resourc
 ### Upgrade from older versions
 
 See [Upgrade Procedures](mobile-engagement-windows-store-upgrade-procedure/) 
+test

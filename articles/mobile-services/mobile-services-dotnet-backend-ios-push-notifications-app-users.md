@@ -49,3 +49,5 @@ In this tutorial, you require users to authenticate first, register with the not
 
 [Azure Management Portal]: https://manage.windowsazure.com/
 [Mobile Services .NET How-to Conceptual Reference]: /develop/mobile/how-to-guides/work-with-net-client-library
+
+test

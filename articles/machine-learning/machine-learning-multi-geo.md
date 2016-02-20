@@ -59,3 +59,4 @@ Ask a question on the [Azure Machine Learning forum](https://social.msdn.microso
 [2]: ./media/machine-learning-multi-geo/multi-geo_2.png
 [3]: ./media/machine-learning-multi-geo/multi-geo_3.png
 [4a]: ./media/machine-learning-multi-geo/multi-geo_4a.png
+test

@@ -45,3 +45,5 @@ Single Sign-On and AD FS| Domain admin permissions in the domain in which your f
 * [Custom installation of Azure AD Connect](active-directory-aadconnect-get-started-custom.md)
 * [Azure AD Connect on MSDN](active-directory-aadconnect.md)
  
+
+test

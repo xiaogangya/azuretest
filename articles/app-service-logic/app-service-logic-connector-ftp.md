@@ -178,3 +178,5 @@ You can also review performance statistics and control security to the connector
 [12]: ./media/app-service-logic-connector-ftp/AdvancedInputsUploadFile.PNG
 [13]: ./media/app-service-logic-connector-ftp/ConfiguredUploadFile.PNG
  
+
+test

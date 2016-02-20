@@ -56,3 +56,4 @@ For more information, see [Manage an Azure Machine Learning workspace](machine-l
 
 [1]: ./media/machine-learning-walkthrough-1-create-ml-workspace/create1.png
  
+test

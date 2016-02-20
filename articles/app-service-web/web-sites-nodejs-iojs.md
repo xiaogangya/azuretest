@@ -60,3 +60,4 @@ In this article you learned how to use io.js with App Service Web Apps, using bo
 [io.js on GitHub]: https://github.com/iojs/io.js
 [io.js Deployment Script]: https://github.com/felixrieseberg/iojs-azure
  
+test

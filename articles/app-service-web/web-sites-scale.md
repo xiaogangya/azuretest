@@ -198,3 +198,4 @@ Depending on the web app's mode, the following developer-oriented features are a
 [ScaleDatabase]: ./media/web-sites-scale/scale11SQLScale.png
 [GeoReplication]: ./media/web-sites-scale/scale12SQLGeoReplication.png
  
+test

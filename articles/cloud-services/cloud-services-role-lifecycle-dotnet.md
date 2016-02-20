@@ -79,3 +79,4 @@ You can use the ASP.NET lifecycle methods, in addition to those provided by the 
 
 ## Next steps
 Learn how to [create a cloud service package](cloud-services-model-and-package.md).
+test

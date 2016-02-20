@@ -39,3 +39,4 @@ Publish your content. For more information, see [How to: Encode an Asset](../med
 
 [checkstatus]: ./media/media-services-portal-check-job-progress/media-services-monitor-job-progress.png
  
+test

@@ -391,3 +391,5 @@ In this section you will create a new custom authorization attribute that can be
 [IsMemberOf]: http://msdn.microsoft.com/library/azure/dn151601.aspx
 [Accessing Azure Active Directory Graph Information]: mobile-services-dotnet-backend-windows-store-dotnet-aad-graph-info.md
 [ADAL for .NET]: https://msdn.microsoft.com/library/azure/jj573266.aspx
+
+test

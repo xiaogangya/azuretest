@@ -74,3 +74,5 @@ For more information on Azure App Service platform, see [Azure App Service][apps
 [rules]: app-service-logic-use-biztalk-rules.md
 [templates]: app-service-logic-use-logic-app-templates.md
  
+
+test

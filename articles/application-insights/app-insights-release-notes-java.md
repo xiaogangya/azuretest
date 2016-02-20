@@ -67,3 +67,5 @@ Compare the old and new ApplicationInsights.xml. Many of the changes you see are
 - Support manual tracking of dependencies using a new ```trackDependency``` method API.
 - Ability to tag a telemetry item as synthetic, by adding a ```SyntheticSource``` property to the reported item.
  
+
+test

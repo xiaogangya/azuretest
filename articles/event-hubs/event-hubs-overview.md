@@ -166,3 +166,4 @@ Now that you've learned about Event Hubs concepts, you can move on to the follow
 [sample application that uses Event Hubs]: https://code.msdn.microsoft.com/windowsazure/Service-Bus-Event-Hub-286fd097
 [queued messaging solution]: ../cloud-services-dotnet-multi-tier-app-using-service-bus-queues.md
  
+test

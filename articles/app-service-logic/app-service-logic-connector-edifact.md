@@ -94,3 +94,5 @@ You can also review performance statistics and control security to the connector
 [8]: ./media/app-service-logic-connector-edifact/ListOfActions.PNG
 [9]: ./media/app-service-logic-connector-edifact/EncodeInput.PNG
 [10]: ./media/app-service-logic-connector-edifact/EncodeConfigured.PNG
+
+test

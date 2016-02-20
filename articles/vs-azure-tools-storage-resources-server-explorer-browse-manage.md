@@ -320,3 +320,5 @@ There are two ways to add storage accounts by using Server Explorer. You can cre
 
 [Accessing the Azure Storage Services](https://msdn.microsoft.com/library/azure/ee405490.aspx)
 
+
+test

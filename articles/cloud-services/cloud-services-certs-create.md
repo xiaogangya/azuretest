@@ -76,3 +76,4 @@ You can use Java to [create a certificate](../app-service-web/java-create-azure-
 Upload a [management API certificate](../azure-api-management-certs.md) to the Azure Portal.
 
 >[AZURE.NOTE] The Azure Preview Portal does not use management certificates to access the API but instead uses user accounts.
+test

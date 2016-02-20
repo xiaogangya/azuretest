@@ -53,3 +53,4 @@ Note that now you can also create a custom origin and it does not have to be Azu
 
 [customorigin]: ./media/cdn-create-new-endpoint/cdn-custom-origin.png
  
+test

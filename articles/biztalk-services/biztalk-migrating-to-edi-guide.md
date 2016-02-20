@@ -141,3 +141,4 @@ Microsoft Azure BizTalk Services is updated at regular milestones to add more fe
 [Developing Enterprise Applications with Azure](https://msdn.microsoft.com/library/azure/hh674490.aspx)
 
 [EDImessageflow]: ./media/biztalk-migrating-to-edi-guide/IC719455.png
+test

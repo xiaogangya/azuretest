@@ -73,3 +73,5 @@ The action returns the output as a string - Flat File. Output contains the flat 
 [5]: ./media/app-service-logic-flatfile-encoder/FlatFileEncoder.FlatFileToXml.PNG
 [6]: ./media/app-service-logic-flatfile-encoder/FlatFileEncoder.XmlToFlatFile.PNG
  
+
+test

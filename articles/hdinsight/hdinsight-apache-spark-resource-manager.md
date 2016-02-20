@@ -81,3 +81,5 @@ Specify thrift server core Count and thrift Server executor memory as 0. With no
 [azure-free-trial]: http://azure.microsoft.com/pricing/free-trial/
 [azure-management-portal]: https://manage.windowsazure.com/
 [azure-create-storageaccount]: ../storage-create-storage-account/ 
+
+test

@@ -249,3 +249,5 @@ Some considerations apply:
 [process2]: ./media/media-services-portal-get-started/media-services-process-video2.png
 [encrypt]: ./media/media-services-manage-content/media-services-encrypt-content.png
 [AMSPlayer]: ./media/media-services-portal-get-started/media-services-portal-player.png
+
+test

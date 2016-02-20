@@ -109,3 +109,5 @@ If you choose to have all three peering sessions, you must have three pairs of B
 
 - Find a service provider. See [ExpressRoute Service Providers and Locations](expressroute-locations.md).
 - Configure your ExpressRoute connection. See [Configure an ExpressRoute connection through a network service provider](expressroute-configuring-nsps.md) or [Configure an ExpressRoute connection through an exchange provider](expressroute-configuring-exps.md) for instructions. 
+
+test

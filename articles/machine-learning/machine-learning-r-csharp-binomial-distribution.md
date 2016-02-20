@@ -294,3 +294,5 @@ For frequently asked questions on consumption of the web service or publishing t
 
 [6]: ./media/machine-learning-r-csharp-binomial-distribution/binomial_6.png
  
+
+test

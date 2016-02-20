@@ -40,3 +40,5 @@ This document provides information on the logging capability of Azure ML Web Ser
 	score/init  
 
  
+
+test

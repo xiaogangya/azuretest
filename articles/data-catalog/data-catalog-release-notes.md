@@ -84,3 +84,5 @@ If the corporate network uses a proxy server, the registration tool may not be a
 
 
 To locate the RegistrationTool.exe.config file, launch the registration tool, and then open the Windows Task Manager utility. On the Details tab in Task manager, right-click on RegistrationTool.exe and choose Open file location from the pop-up menu.
+
+test

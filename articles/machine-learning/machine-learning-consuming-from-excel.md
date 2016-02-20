@@ -69,3 +69,4 @@ An RRS call is made in these two situations:
 [3]: ./media/machine-learning-consuming-from-excel/enablecontent.png
 [4]: ./media/machine-learning-consuming-from-excel/sampletable.png
  
+test

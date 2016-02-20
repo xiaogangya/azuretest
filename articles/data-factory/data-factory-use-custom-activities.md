@@ -477,3 +477,4 @@ Here are the high-level steps for using the Azure Batch Linked Service in the wa
 
 [image-data-factory-azure-batch-tasks]: ./media/data-factory-use-custom-activities/AzureBatchTasks.png
  
+test

@@ -156,3 +156,4 @@ To test your configuration, you need to grant the Azure AD users you want to all
     ![Assign users](./media/active-directory-saas-screensteps-tutorial/IC778548.png "Assign users")
   
 If you want to test your single sign-on settings, open the Access Panel. For more details about the Access Panel, see [Introduction to the Access Panel](https://msdn.microsoft.com/library/dn308586).
+test

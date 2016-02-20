@@ -83,3 +83,4 @@ Azure can only ensure 99.95 percent service availability during the configuratio
 ## Additional Resources
 
 [Enable Remote Desktop Connection for a Role in Azure Cloud Services](cloud-services-role-enable-remote-desktop.md)
+test

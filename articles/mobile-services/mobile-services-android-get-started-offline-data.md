@@ -220,3 +220,5 @@ One thing which is important to point out: if there are pending changes in the l
 [Azure Friday: Offline-enabled apps in Azure Mobile Services]: http://azure.microsoft.com/documentation/videos/azure-mobile-services-offline-enabled-apps-with-donna-malayeri/
 
 [Mobile Services Quick Start tutorial]: mobile-services-android-get-started.md
+
+test

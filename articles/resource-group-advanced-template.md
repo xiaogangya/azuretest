@@ -142,3 +142,5 @@ The next example uses the **parametersLink** property to link to a parameter fil
 - [Azure Resource Manager Template Functions](./resource-group-template-functions.md)
 - [Deploy an application with Azure Resource Manager Template](azure-portal/resource-group-template-deploy.md)
 - [Azure Resource Manager Overview](./resource-group-overview.md)
+
+test

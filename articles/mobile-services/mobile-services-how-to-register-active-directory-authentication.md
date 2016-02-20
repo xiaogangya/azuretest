@@ -65,3 +65,4 @@ You are now ready to use an Azure Active Directory for authentication in your ap
 [Azure Management Portal]: https://manage.windowsazure.com/
 
  
+test

@@ -187,3 +187,4 @@ The following image shows how to filter the objects that are stored to a variabl
 
 - [Links in graphical authoring](automation-graphical-authoring-intro.md#links-and-workflow)
  
+test

@@ -363,3 +363,5 @@ You can deploy services to Azure from a template by using PowerShell, AzureCLI, 
 [Using Tags in Azure Resource Manager](https://msdn.microsoft.com/library/azure/dn848368.aspx)
 
 [Template deployments](https://msdn.microsoft.com/library/azure/dn790549.aspx) 
+
+test

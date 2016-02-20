@@ -206,3 +206,4 @@ This sample created a simple announcement campaign specifying mostly the require
 
 
  
+test

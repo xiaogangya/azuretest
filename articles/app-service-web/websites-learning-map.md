@@ -23,3 +23,4 @@ Test drive Azure App Service Web Apps, quickly migrate your web assets to Azure 
 <object type="image/svg+xml" data="https://sidneyhcontent.blob.core.windows.net/documentation/websites-learning-map.svg" width="100%" height="100%">
 </object>
  
+test

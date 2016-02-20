@@ -147,3 +147,5 @@ The next steps in the Advanced Analytics Process and Technology are mapped in th
 [28]: ./media/machine-learning-data-science-setup-virtual-machine/create-virtual-machine-5.png
 [29]: ./media/machine-learning-data-science-setup-virtual-machine/create-virtual-machine-6.png
  
+
+test

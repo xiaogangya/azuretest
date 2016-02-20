@@ -776,3 +776,5 @@ The following Azure Resource Manger template creates a Hadoop cluster with the d
 [ssispack]: http://msdn.microsoft.com/en-US/library/mt146770(v=sql.120).aspx
 [ssisclustercreate]: http://msdn.microsoft.com/en-US/library/mt146774(v=sql.120).aspx
 [ssisclusterdelete]: http://msdn.microsoft.com/en-US/library/mt146778(v=sql.120).aspx
+
+test

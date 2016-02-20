@@ -43,3 +43,4 @@ Azure AD's reports retain data for a certain number of days, indicated here.
 |	RMS device usage									|	30 days		|
 |	RMS enabled application usage						|	30 days		|
  
+test

@@ -154,3 +154,5 @@ For more examples, including how to retrieve information about links, see [Linke
 
 - You can also organize your resources with tags. To learn about tagging resources, see [Using tags to organize your resources](resource-group-using-tags.md).
 - For a description of how to create templates and define the resources to be deployed, see [Authoring templates](resource-group-authoring-templates.md).
+
+test

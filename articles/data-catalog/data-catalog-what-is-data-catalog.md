@@ -121,3 +121,5 @@ The ultimate goal of data discovery is to find the data that you need, and to us
 2.	For all client applications, users can use the connection information displayed in the properties pane for a selected data source. This information includes all details (such as server name, database name, and object name) required to connect to the data, and can be copied into the client tool's connection experience. If request access details have been provided for a data source, this information will be displayed next to the connection details.
 
 > [AZURE.NOTE] For the preview of Azure Data Catalog, only Microsoft Excel and SQL Server Reporting Services Report Manager will be directly supported and available in the **Open In** menu.  
+
+test

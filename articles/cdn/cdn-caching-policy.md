@@ -42,3 +42,4 @@ You can use Azure Management portal or Azure Media Services APIs to configure ca
 2. If there is no manual configuration, default values applies.
 3. By default 2 seconds cache headers applies to live streaming manifest(playlist) regardless of Azure Media or Azure Storage configuration and overriding of this value is not available.
  
+test

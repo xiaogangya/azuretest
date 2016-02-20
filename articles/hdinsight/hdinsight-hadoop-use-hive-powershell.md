@@ -143,3 +143,5 @@ For information about other ways you can work with Hadoop on HDInsight:
 * [Use Pig with Hadoop on HDInsight](hdinsight-use-pig.md)
 
 * [Use MapReduce with Hadoop on HDInsight](hdinsight-use-mapreduce.md)
+
+test

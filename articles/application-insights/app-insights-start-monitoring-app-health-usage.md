@@ -239,3 +239,5 @@ If this app is part of a bigger application, you might want to use **Configure s
 [redfield]: app-insights-monitor-performance-live-website-now.md
 [roles]: app-insights-resources-roles-access-control.md
 [start]: app-insights-get-started.md
+
+test

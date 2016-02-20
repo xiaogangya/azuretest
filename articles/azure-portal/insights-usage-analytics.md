@@ -21,3 +21,4 @@
 > [AZURE.NOTE] This article has moved. Please see: [Application Insights for JavaScript apps and web pages](../app-insights-web-track-usage.md)
 
  
+test

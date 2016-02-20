@@ -69,3 +69,4 @@ You are now ready to use Microsoft Account for authentication in your app.
 [My Applications]: http://go.microsoft.com/fwlink/p/?LinkId=262039
 [Azure Management Portal]: https://portal.azure.com/
  
+test

@@ -444,3 +444,4 @@ Now that you've learned the basics of service management, you can access the [Co
 [Cloud Services]: http://msdn.microsoft.com/library/windowsazure/jj155995.aspx
 [Virtual Machines]: http://msdn.microsoft.com/library/windowsazure/jj156003.aspx
  
+test

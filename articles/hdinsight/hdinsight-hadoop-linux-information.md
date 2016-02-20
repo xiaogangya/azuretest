@@ -142,3 +142,4 @@ Other than through the Hadoop command from the cluster, there are a variety of w
 * [Use Hive with HDInsight](hdinsight-use-hive.md)
 * [Use Pig with HDInsight](hdinsight-use-pig.md)
 * [Use MapReduce jobs with HDInsight](hdinsight-use-mapreduce.md)
+test

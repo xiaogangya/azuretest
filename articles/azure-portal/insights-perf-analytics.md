@@ -84,3 +84,4 @@ Once you get to the blade, for Application Insights, for example, you can:
 * Use [Application Insights for JavaScript apps and web pages](../app-insights-web-track-usage.md) to get client analytics about the browsers that visit a web page.
 * [Monitor availability and responsiveness of any web page](../app-insights-monitor-web-app-availability.md) with Application Insights so you can find out if your page is down.
  
+test

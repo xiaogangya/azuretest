@@ -178,3 +178,4 @@ The following example uses DIG to query the domain contoso.com using the name se
 [How to manage DNS records](dns-operations-recordsets-cli.md)<BR>
 [Automate Azure operations with .NET SDK](dns-sdk.md)<BR>
 [Azure DNS REST API Reference](https://msdn.microsoft.com/library/azure/mt163862.aspx)
+test

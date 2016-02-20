@@ -147,3 +147,4 @@ For reference, the completed sample (without your configuration values) is provi
 
 [AZURE.INCLUDE [active-directory-devquickstarts-additional-resources](../../includes/active-directory-devquickstarts-additional-resources.md)]
  
+test

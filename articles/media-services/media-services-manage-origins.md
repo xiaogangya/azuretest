@@ -140,3 +140,4 @@ For more information see, [Announcing Azure Media Services integration with Azur
 [configure-origin]: ./media/media-services-manage-origins/media-services-origins-configure.png
 [configure-origin-configure-custom-host-names]: ./media/media-services-manage-origins/media-services-configure-custom-host-names.png
  
+test

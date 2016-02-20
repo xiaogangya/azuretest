@@ -89,3 +89,5 @@ If registration fails during the Connector wizard installation, you can view the
 <!--Image references-->
 [1]: ./media/active-directory-application-proxy-troubleshoot/ConnectorProperties.jpg
 [2]: ./media/active-directory-application-proxy-troubleshoot/SessionLog.jpg
+
+test

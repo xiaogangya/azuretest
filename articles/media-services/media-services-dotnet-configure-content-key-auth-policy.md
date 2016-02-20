@@ -394,3 +394,4 @@ To get a test token based on the token restriction that was used for the key aut
 ##Next Steps
 Now that you have configured content key's authorization policy, go to the [How to configure asset delivery policy](media-services-dotnet-configure-asset-delivery-policy.md) topic.
  
+test

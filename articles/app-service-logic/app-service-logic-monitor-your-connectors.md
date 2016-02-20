@@ -135,3 +135,4 @@ You can easily add users and assign them specific roles to your API App. The por
 [host]: ./media/app-service-logic-monitor-your-connectors/host.png
 [hostsettings]: ./media/app-service-logic-monitor-your-connectors/hostsettings.png
 [apiapphost]: ./media/app-service-logic-monitor-your-connectors/apiapphost.png
+test

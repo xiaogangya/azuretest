@@ -208,3 +208,5 @@ The following steps add the B2B API Apps to Logic Apps, Mobile Apps, or Web Apps
 
 [Connectors and API Apps List](app-service-logic-connectors-list.md)<br/><br/>
 [What are Connectors and BizTalk API Apps](app-service-logic-what-are-biztalk-api-apps.md) 
+
+test

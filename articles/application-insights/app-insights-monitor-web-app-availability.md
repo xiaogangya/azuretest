@@ -239,3 +239,5 @@ You might want to disable web tests while you are performing maintenance on your
 [diagnostic]: app-insights-diagnostic-search.md
 [qna]: app-insights-troubleshoot-faq.md
 [start]: app-insights-get-started.md
+
+test

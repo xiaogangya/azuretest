@@ -384,3 +384,4 @@ In this scenario, data set is in an error state due to a failure in Hive process
 
 [image-data-factory-troubleshoot-activity-run-details]: ./media/data-factory-troubleshoot/Walkthrough2ActivityRunDetails.png
  
+test

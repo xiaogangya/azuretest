@@ -270,3 +270,4 @@ You can try this sample API App at [TryApp Service](http://tryappservice.azure.c
 [api-definition-click]:./media/app-service-api-java-api-app/apidef.png
 [api-definition-blade]:./media/app-service-api-java-api-app/apidefblade.png
  
+test

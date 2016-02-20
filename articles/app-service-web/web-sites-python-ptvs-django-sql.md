@@ -221,3 +221,5 @@ Follow these links to learn more about Python Tools for Visual Studio, Django an
 [Cloud Service Projects]: http://go.microsoft.com/fwlink/?LinkId=624028
 [Django Documentation]: https://www.djangoproject.com/
 [SQL Database]: /documentation/services/sql-database/
+
+test

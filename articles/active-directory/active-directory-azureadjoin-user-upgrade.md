@@ -42,3 +42,5 @@ To join to Azure AD from the settings menu
 * [Extending cloud capabilities to Windows 10 devices through Azure Active Directory Join](active-directory-azureadjoin-user-upgrade.md)
 * [Learn about usage scenarios and deployment considerations for Azure AD Join](active-directory-azureadjoin-deployment-aadjoindirect.md)
 * [Set up Azure AD Join](active-directory-azureadjoin-setup.md)
+
+test

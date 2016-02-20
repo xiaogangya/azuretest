@@ -204,3 +204,5 @@ For tutorials that run other samples and provide instructions for running Pig, H
 
 [hdinsight-use-hive]: hdinsight-use-hive.md
 [hdinsight-use-pig]: hdinsight-use-pig.md
+
+test

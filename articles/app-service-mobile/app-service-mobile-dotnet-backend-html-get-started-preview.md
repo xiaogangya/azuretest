@@ -122,3 +122,5 @@ Next, you will deploy your CORS-enabled project to Azure.
 
 [Visual Studio Community 2013]: https://www.visualstudio.com/downloads
  
+
+test

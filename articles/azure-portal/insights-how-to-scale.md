@@ -143,3 +143,4 @@ However, you may want to have more agressive scaling during the day, or the week
 * [View events and audit logs](insights-debugging-with-events.md) to learn everything that has happened in your service.
 * [Monitor availability and responsiveness of any web page](../app-insights-monitor-web-app-availability.md) with Application Insights so you can find out if your page is down.
  
+test

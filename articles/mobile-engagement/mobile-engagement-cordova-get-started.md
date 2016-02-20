@@ -312,3 +312,5 @@ We will now create a simple Push Notification campaign that will send a push to 
 [19]: ./media/mobile-engagement-cordova-get-started/engagement-portal.png
 [20]: ./media/mobile-engagement-cordova-get-started/native-push-settings.png
 [21]: ./media/mobile-engagement-cordova-get-started/api-key.png
+
+test

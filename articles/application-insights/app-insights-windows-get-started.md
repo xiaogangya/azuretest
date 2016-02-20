@@ -228,3 +228,5 @@ When a [new SDK version is released](app-insights-release-notes-windows.md):
 [roles]: app-insights-resources-roles-access-control.md
 [windowsCrash]: app-insights-windows-crashes.md
 [windowsUsage]: app-insights-windows-usage.md
+
+test

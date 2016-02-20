@@ -112,3 +112,4 @@ You can now select "Any Time" when creating Reach announcements and polls.
 [integrated ADM]:https://developer.amazon.com/sdk/adm/integrating-app.html
 [this procedure]:https://developer.amazon.com/sdk/adm/integrating-app.html#Asset
  
+test

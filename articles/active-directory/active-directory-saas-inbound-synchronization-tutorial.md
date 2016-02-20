@@ -173,3 +173,5 @@ The objective of this section is to outline how to configure Microsoft Azure AD 
 	![Start provisioning](./media/active-directory-saas-inbound-synchronization-tutorial/IC750998.png "Start provisioning")  
 
 You can now go to the **Users** section and check whether your Workday user has been imported.    
+
+test

@@ -32,3 +32,4 @@ Here are detailed release notes and update instructions for our SDKs:
 Read also our [Service Updates](http://azure.microsoft.com/updates/?service=application-insights) which summarize major improvements in the Application Insights service as a whole.
 
  
+test

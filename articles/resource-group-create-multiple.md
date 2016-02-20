@@ -119,3 +119,5 @@ Of course, you set the copy count to a value other than the length of the array.
 - If you want to learn about the sections of a template, see [Authoring Azure Resource Manager Templates](./resource-group-authoring-templates.md).
 - For all of the functions you can use in a template, see [Azure Resource Manager Template Functions](./resource-group-template-functions.md).
 - To learn how to deploy your template, see [Deploy an application with Azure Resource Manager Template](azure-portal/resource-group-template-deploy.md).
+
+test

@@ -49,3 +49,5 @@ The action returns the output as a string - Result. Result contains the value of
 
 <!-- Links -->
 [Create a new Logic App]: app-service-logic-create-a-logic-app.md
+
+test

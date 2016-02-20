@@ -503,3 +503,4 @@ Add the appSettings section to the app.config file, and set the values for your 
 
 [Working with Channels that Perform Live Encoding from a Single-bitrate to Multi-bitrate Stream](media-services-manage-live-encoder-enabled-channels.md)
  
+test

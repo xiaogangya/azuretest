@@ -40,3 +40,5 @@ Simple templates that integrate with social media services such as Twitter, Yamm
 
 After selecting one of the templates complete the deployment as you would if you created your own logic app.  Please see [Create a Logic App](app-service-logic-create-a-logic-app.md).
  
+
+test

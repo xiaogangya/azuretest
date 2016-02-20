@@ -280,3 +280,5 @@ If you are writing a script that relies on the exit status, please verify that t
 [portal]: https://manage.windowsazure.com
 [signuporg]: http://www.windowsazure.com/documentation/articles/sign-up-organization/
 [Using the Azure CLI]: virtual-machines-command-line-tools.md
+
+test

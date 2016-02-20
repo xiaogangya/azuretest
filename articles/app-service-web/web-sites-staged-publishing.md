@@ -260,3 +260,5 @@ To delete a deployment slot that is no longer needed, use the **azure site delet
 [Autoswap2]: ./media/web-sites-staged-publishing/AutoSwap02.png
 [SlotSettings]: ./media/web-sites-staged-publishing/SlotSetting.png
  
+
+test

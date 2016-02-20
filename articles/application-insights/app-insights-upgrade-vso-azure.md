@@ -75,3 +75,4 @@ If your web pages include telemetry calls in the body such as logEvent or logPag
 [usage]: app-insights-web-track-usage.md
 
  
+test

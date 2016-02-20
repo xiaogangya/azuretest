@@ -152,3 +152,4 @@ If you build in release configuration, events are stored in the device and sent 
 
 
  
+test

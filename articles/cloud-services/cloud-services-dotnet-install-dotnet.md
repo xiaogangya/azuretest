@@ -141,3 +141,5 @@ When you deploy your service the startup tasks will run and install the .NET fra
 [2]: ./media/cloud-services-dotnet-install-dotnet/rolecontentwithallfiles.png
 
  
+
+test

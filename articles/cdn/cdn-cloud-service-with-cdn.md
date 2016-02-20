@@ -621,3 +621,5 @@ The [Bundle](http://msdn.microsoft.com/library/system.web.optimization.bundle.as
 - [Integrate an Azure Website with Azure CDN](cdn-websites-with-cdn.md)
 - [ASP.NET Bundling and Minification](http://www.asp.net/mvc/tutorials/mvc-4/bundling-and-minification)
 - [Using CDN for Azure](cdn-how-to-use.md)
+
+test

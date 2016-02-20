@@ -85,3 +85,5 @@ Accessing Media Services requires two associated accounts:
   [Web Platform Installer]: http://go.microsoft.com/fwlink/?linkid=255386
 
   [Azure portal]: http://manage.windowsazure.com/
+
+test

@@ -538,3 +538,4 @@ In this MapReduce tutorial, you installed the HDInsight Emulator - a Hadoop sand
 
 [image-hdi-emulator-services]: ./media/hdinsight-hadoop-emulator-get-started/HDI.Emulator.Services.png
  
+test

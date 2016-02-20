@@ -134,3 +134,4 @@ The following code snippet creates a content key of the common encryption type. 
 call
 
 	IContentKey key = CreateCommonTypeContentKey(encryptedsset); 
+test

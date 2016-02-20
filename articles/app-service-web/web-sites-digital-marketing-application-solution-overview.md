@@ -140,3 +140,5 @@ In the **Standard** tier, monitor app responsiveness receive email notifications
   
   [gitstaging]:http://www.bradygaster.com/post/multiple-environments-with-windows-azure-web-sites  
  
+
+test

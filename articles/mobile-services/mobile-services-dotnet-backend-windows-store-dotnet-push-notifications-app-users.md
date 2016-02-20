@@ -64,3 +64,4 @@ After you have completed both tutorials, you can prevent unauthenticated users f
 [Azure Management Portal]: https://manage.windowsazure.com/
 
  
+test

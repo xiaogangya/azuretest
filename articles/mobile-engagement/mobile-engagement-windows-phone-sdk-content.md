@@ -36,3 +36,5 @@ This folder contains all the resources that Mobile Engagement needs. You can als
 
 - `EngagementConfiguration.xml` : The Mobile Engagement's configuration file, this is where you can customize Engagement settings (Engagement connection string, report crashes etc).
  
+
+test

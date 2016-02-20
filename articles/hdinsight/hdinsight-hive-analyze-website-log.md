@@ -60,3 +60,4 @@ Try the following sample: [Analyzing sensor data using Hive with HDInsight](hdin
 
 [img-hdi-weblogs-sample]: ./media/hdinsight-hive-analyze-website-log/hdinsight-weblogs-sample.png
  
+test

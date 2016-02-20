@@ -252,3 +252,5 @@ In the next tutorial, [Role based access control with the AAD in Mobile Services
 [Azure Active Directory Graph Team Blog]: http://go.microsoft.com/fwlink/?LinkId=510536
 [Get User]: http://msdn.microsoft.com/library/azure/dn151678.aspx
 [Role based access control with the AAD in Mobile Services]: mobile-services-dotnet-backend-windows-store-dotnet-aad-rbac.md
+
+test

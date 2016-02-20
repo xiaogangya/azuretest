@@ -224,3 +224,4 @@ To get started with Azure, see [Microsoft Azure Free Trial](/pricing/free-trial/
 [LogsFolder]: ./media/web-sites-backup/12Logs.png
 [GhostUpgradeWarning]: ./media/web-sites-backup/13GhostUpgradeWarning.png
  
+test

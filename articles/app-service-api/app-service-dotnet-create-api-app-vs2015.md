@@ -305,3 +305,4 @@ In this section, you navigate to the portal to view the API definition for the A
 
 You have now created and deployed an API app using Visual Studio 2015 RC.  For more documentation about API apps, see the entries in the navigation pane that shows on the left side of the page (for wide browser windows) or at the top of the page (for narrow browser windows). Most of the API app documentation currently shows Visual Studio 2013, but much of it can be used with VS 2015 because the UI is similar, the code you write is the same, and the portal UI is the same.
  
+test

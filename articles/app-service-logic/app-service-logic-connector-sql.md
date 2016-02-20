@@ -158,3 +158,5 @@ You can also review performance statistics and control security to the connector
 [10]: ./media/app-service-logic-connector-sql/LogicApp6.png
 [11]: ./media/app-service-logic-connector-sql/LogicApp7.png
 [12]: ./media/app-service-logic-connector-sql/LogicApp8.png
+
+test

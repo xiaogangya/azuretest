@@ -34,3 +34,5 @@ Click on the "Welcome" page to edit what is displayed on the home page of the de
 [Management Portal]: https://manage.windowsazure.com/
 
 [api-management-howto-edit-contents-of-page-manage-content]: ./media/api-management-howto-edit-contents-of-page/api-management-customization-manage-content.png
+
+test

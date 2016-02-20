@@ -106,3 +106,5 @@ Use the following procedure to delete a deployment or your cloud service.
 > If verbose monitoring is configured for your cloud service, Azure does not delete the monitoring data from your storage account when you delete the cloud service. You will need to delete the data manually. For information about where to find the metrics tables, see [this](cloud-services-how-to-monitor.md) article.
 
 [Azure Preview Portal]: https://portal.azure.com
+
+test

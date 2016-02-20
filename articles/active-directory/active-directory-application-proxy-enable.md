@@ -74,3 +74,5 @@ If you want to uninstall the Connector, after uninstalling the Connector service
 
 * [Sign up for Azure as an organization](..sign-up-organization.md)
 * [Azure Identity](..fundamentals-identity.md)
+
+test

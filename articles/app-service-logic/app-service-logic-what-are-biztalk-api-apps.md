@@ -47,3 +47,4 @@ Business rules encapsulates the policies and decisions that control business pro
 ## Connector and API App list
 See [Connectors and API Apps List](app-service-logic-connectors-list.md) for a complete list of connectors and API Apps included in each category, including the Standard Connectors, BizTalk EAI, Premium Connectors, and so on.
  
+test

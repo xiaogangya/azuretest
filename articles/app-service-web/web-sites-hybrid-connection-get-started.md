@@ -210,3 +210,4 @@ Now that the hybrid connection infrastructure is complete, you can create a hybr
 [HCMInstallComplete]:./media/web-sites-hybrid-connection-get-started/D09HCMInstallComplete.png
 [HCStatusConnected]:./media/web-sites-hybrid-connection-get-started/D10HCStatusConnected.png
  
+test

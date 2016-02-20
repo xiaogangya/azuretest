@@ -98,3 +98,4 @@ See [Submit Hive Queries to HDInsight Hadoop clusters in the advanced analytics 
 [9]: ./media/machine-learning-data-science-customize-hadoop-cluster/enable-remote-access-3.png
 
  
+test

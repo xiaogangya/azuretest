@@ -89,3 +89,4 @@ Virtual machines have these related resources:
     * Alert rules
     
 If you can't access any of these tiles, you'll need to ask your administrator for Contributor access to the Resource group. 
+test

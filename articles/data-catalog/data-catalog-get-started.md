@@ -227,3 +227,5 @@ In this tutorial you explored essential capabilities of the **Azure Data Catalog
 [10]: ./media/data-catalog-get-started/connect1.png
 [11]: ./media/data-catalog-get-started/connect2.png
 [12]: ./media/data-catalog-get-started/ownership.png
+
+test

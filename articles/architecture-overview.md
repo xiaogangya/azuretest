@@ -109,3 +109,5 @@ Microsoft publishes several architecture related posters/infographics. They incl
 ![Azure Architecture Infographics](./media/architecture-overview/AzureArchInfographicThumb.jpg)
 
 add a line
+
+test

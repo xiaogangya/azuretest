@@ -29,3 +29,4 @@ The step titled **Advanced data processing in Azure** links to a second guide th
 <object type="image/svg+xml" data="https://sidneyhcontent.blob.core.windows.net/documentation/machine-learning-how-to-create-ml-service.svg" width="100%" height="100%">
 </object>
  
+test

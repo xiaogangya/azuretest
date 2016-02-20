@@ -47,3 +47,5 @@ X12 & EDIFACT have similar tracking views.
 <!--Image references-->
 [1]: ./media/app-service-logic-track-b2b-messages/AS2Tracking.jpg
 [2]: ./media/app-service-logic-track-b2b-messages/EDIFACTTracking.jpg 
+
+test

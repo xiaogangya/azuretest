@@ -112,3 +112,4 @@ For an end-to-end walkthrough example of the Advanced Analytics Process and Tech
 [2]: ./media/machine-learning-data-science-sample-sql-server-virtual-machine/reader_blob.png
 
  
+test

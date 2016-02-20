@@ -76,3 +76,5 @@ Our goal is to make the Machine Learning experience as seamless as possible. Ple
 [screen5]:media/machine-learning-troubleshooting-creating-ml-workspace/screen5.png
 [screen6]:media/machine-learning-troubleshooting-creating-ml-workspace/screen6.png
  
+
+test

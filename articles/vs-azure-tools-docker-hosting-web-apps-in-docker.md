@@ -176,3 +176,5 @@ For issues with using Docker in Visual Studio, see [Troubleshooting Docker Clien
 [6]: ./media/vs-azure-tools-docker-hosting-web-apps-in-docker/IC796684.png
 [7]: ./media/vs-azure-tools-docker-hosting-web-apps-in-docker/IC796685.png
 [8]: ./media/vs-azure-tools-docker-hosting-web-apps-in-docker/IC796686.png
+
+test

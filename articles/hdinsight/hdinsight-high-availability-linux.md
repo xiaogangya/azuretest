@@ -169,3 +169,4 @@ In this document you have learned how Azure HDInsight provides high availability
 [preview-portal]: https://portal.azure.com/
 [azure-powershell]: ../powershell-install-configure.md
 [azure-cli]: ../xplat-cli.md
+test

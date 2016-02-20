@@ -56,3 +56,5 @@ Also, consider finding out more about the following Mobile Services topics:
 <!-- URLs. -->
 [Mobile Services server script reference]: http://go.microsoft.com/fwlink/?LinkId=262293
 [Store server scripts in source control]: mobile-services-store-scripts-source-control.md
+
+test

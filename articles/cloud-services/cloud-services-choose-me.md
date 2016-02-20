@@ -38,3 +38,4 @@ Azure provides different hosting models for running applications. Each one provi
 [App Service]: app-service-choose-me.md
 [Virtual Machines]: ../virtual-machines-choose-me.md
 [Cloud Services]: #tellmecs 
+test

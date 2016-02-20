@@ -207,3 +207,5 @@ Once you have saved the data as a Hive table, you can use Power BI to connect to
 [azure-free-trial]: http://azure.microsoft.com/pricing/free-trial/
 [azure-management-portal]: https://manage.windowsazure.com/
 [azure-create-storageaccount]: ../storage-create-storage-account/ 
+
+test

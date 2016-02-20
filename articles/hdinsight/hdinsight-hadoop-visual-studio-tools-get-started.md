@@ -237,3 +237,5 @@ In this article, you learned how to connect to HDInsight clusters from Visual St
 [hdinsight.access.application.logs]: ../hdinsight/hdinsight-hadoop-access-yarn-app-logs.md
 
 [apache.hive]: http://hive.apache.org
+
+test

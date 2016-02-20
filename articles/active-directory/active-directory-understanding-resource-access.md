@@ -63,3 +63,4 @@ Operations such as moving resources between subscriptions can be more difficult 
 [2]: ./media/active-directory-understanding-resource-access/IC707932.png
 [3]: ./media/active-directory-understanding-resource-access/IC707933.png
 [4]: ./media/active-directory-understanding-resource-access/IC707934.png
+test

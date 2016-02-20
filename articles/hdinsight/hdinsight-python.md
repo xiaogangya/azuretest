@@ -327,3 +327,5 @@ For other ways to use Pig, Hive, and to learn about using MapReduce, see the fol
 * [Use Pig with HDInsight](hdinsight-use-pig.md)
 
 * [Use MapReduce with HDInsight](hdinsight-use-mapreduce.md)
+
+test

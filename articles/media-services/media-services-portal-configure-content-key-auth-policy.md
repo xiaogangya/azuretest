@@ -92,3 +92,4 @@ Now that you have configured content key's authorization policy, go to the [How 
 [token_policy]: ./media/media-services-key-authorization-policy/media-services-protect-content-with-token-restriction.png
 
  
+test

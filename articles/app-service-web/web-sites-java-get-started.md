@@ -93,3 +93,5 @@ At this point, you have a Java application server running as your Java web app o
 [Try App Service]: http://go.microsoft.com/fwlink/?LinkId=523751
 [Azure App Service and existing Azure services]: http://go.microsoft.com/fwlink/?LinkId=529714
 [Reference for navigating the Azure portal]: http://go.microsoft.com/fwlink/?LinkId=529715
+
+test

@@ -240,3 +240,5 @@ A screenshot of the Database backup/restore options from SQL Server Management S
 
 [1]: ./media/machine-learning-data-science-move-sql-server-virtual-machine/sqlserver_builtin_utilities.png
 [2]: ./media/machine-learning-data-science-move-sql-server-virtual-machine/database_migration_wizard.png
+
+test

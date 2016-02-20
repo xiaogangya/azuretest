@@ -95,3 +95,5 @@ Next, you will update the client app to request resources from the Mobile App ba
 
 [Azure Management Portal]: https://portal.azure.com
  
+
+test

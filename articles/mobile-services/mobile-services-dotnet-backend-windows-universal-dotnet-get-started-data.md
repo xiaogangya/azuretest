@@ -123,3 +123,4 @@ This tutorial demonstrated the basics of enabling a universal Windows app projec
 [Mobile Services .NET How-to Conceptual Reference]: mobile-services-windows-dotnet-how-to-use-client-library.md
 [MobileServiceClient class]: http://go.microsoft.com/fwlink/p/?LinkId=302030
   
+test

@@ -730,3 +730,4 @@ The following table describes how each control affects the experience for users 
 * [Troubleshoot Password Management](active-directory-passwords-troubleshoot.md)
 * [Learn More](active-directory-passwords-learn-more.md)
 * [Password Management on MSDN](https://msdn.microsoft.com/library/azure/dn510386.aspx) 
+test

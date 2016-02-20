@@ -311,3 +311,4 @@ After a few minutes, go back to SQL Server Management Tools and watch the data f
 [start]: app-insights-get-started.md
 
  
+test

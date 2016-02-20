@@ -110,3 +110,4 @@ the notification is clicked.
 - If you use a custom category in Reach to display in-app notifications, you need to follow the correct life-cycle of a notification, or else the notification may not be cleared when the user dismiss it.
 
  
+test

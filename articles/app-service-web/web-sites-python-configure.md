@@ -382,3 +382,4 @@ Contents of `ptvs_virtualenv_proxy.py`:
 
 
  
+test

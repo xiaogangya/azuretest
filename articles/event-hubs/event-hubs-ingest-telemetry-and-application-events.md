@@ -35,3 +35,4 @@ Modern applications create a large amount of information while they are running.
 - [Azure Storage](http://azure.microsoft.com/documentation/services/storage/)
 - [HDInsight](http://azure.microsoft.com/documentation/services/hdinsight/)
  
+test

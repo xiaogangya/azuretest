@@ -293,3 +293,5 @@ You will start by creating a service principal. To do this we must use create an
 
 <!-- Images. -->
 [1]: ./media/resource-group-authenticate-service-principal/arm-get-credential.png
+
+test

@@ -176,3 +176,5 @@ In this section you will reconnect the app to the mobile backend, which simulate
 [Xamarin extension]: http://xamarin.com/visual-studio
 
 [Cloud Cover: Offline Sync in Azure Mobile Services]: http://channel9.msdn.com/Shows/Cloud+Cover/Episode-155-Offline-Storage-with-Donna-Malayeri
+
+test

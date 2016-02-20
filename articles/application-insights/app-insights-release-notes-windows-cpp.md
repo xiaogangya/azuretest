@@ -36,3 +36,4 @@ See [Get started with Application Insights for Windows Phone and Store apps](app
 
 First release
  
+test

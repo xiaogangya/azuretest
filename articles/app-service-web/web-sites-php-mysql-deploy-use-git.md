@@ -289,3 +289,5 @@ To publish changes to your app, follow these steps:
 [management-portal]: https://portal.azure.com
 [sql-database-editions]: http://msdn.microsoft.com/library/windowsazure/ee621788.aspx
  
+
+test

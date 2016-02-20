@@ -110,3 +110,4 @@ Write-access to the registry is blocked, including access to any per-user regist
 [AZURE.INCLUDE [app-service-web-whats-changed](../../includes/app-service-web-whats-changed.md)]
  
  
+test

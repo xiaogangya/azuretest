@@ -205,3 +205,5 @@ After deploying your application, you may want to disable it so you can avoid ex
 [How to Delete a Storage Account from an Azure Subscription]: https://www.windowsazure.com/manage/services/storage/how-to-manage-a-storage-account/
 [powershell-menu]: ./media/cloud-services-nodejs-develop-deploy-app/azure-powershell-start.png
  
+
+test

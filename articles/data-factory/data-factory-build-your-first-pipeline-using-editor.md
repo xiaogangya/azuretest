@@ -232,3 +232,4 @@ In this article, you have created a pipeline with a transformation activity (HDI
 
 ## Send Feedback
 We would really appreciate your feedback on this article. Please take a few minutes to submit your feedback via [email](mailto:adfdocfeedback@microsoft.com?subject=data-factory-build-your-first-pipeline-using-editor.md). 
+test

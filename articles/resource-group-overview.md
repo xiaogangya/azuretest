@@ -132,3 +132,5 @@ For information about using the preview portal, see [Using the Azure Preview Por
 - To understand the functions you can use in a template, see [Template functions](./resource-group-template-functions.md)
 - For guidance on designing your templates, see [Best practices for designing Azure Resource Manager templates](best-practices-resource-manager-design-templates.md)
 
+
+test

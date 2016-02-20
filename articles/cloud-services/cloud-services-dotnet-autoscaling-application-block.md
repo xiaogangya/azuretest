@@ -550,3 +550,5 @@ autoscaling scenarios:
   [How Sage Reduces Azure Hosting Costs Using Autoscaling]: http://msdn.microsoft.com/library/jj838716(PandP.50).aspx
   [Reducing TechNet and MSDN hosting costs and environmental impact with autoscaling on Azure]: http://msdn.microsoft.com/library/jj838718(PandP.50).aspx
  
+
+test

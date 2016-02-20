@@ -509,3 +509,4 @@ See the following for information and examples on creating and using scripts to 
 
 [img-hdi-cluster-states]: ./media/hdinsight-hadoop-customize-cluster-linux/HDI-Cluster-state.png "Stages during cluster provisioning"
  
+test

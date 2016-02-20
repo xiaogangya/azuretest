@@ -52,3 +52,5 @@ Before performing this procedure, make sure that the STS the claims aware app re
 <!--image references-->
 [1]: ./media/active-directory-application-proxy-claims-aware-apps/AppDropdown.jpg
 [2]: ./media/active-directory-application-proxy-claims-aware-apps/AddEndpoint.jpg
+
+test

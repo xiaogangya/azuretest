@@ -282,3 +282,4 @@
 [hdinsight-hadoop-emulator-get-started]: ../hdinsight-get-started-emulator.md
 
  
+test

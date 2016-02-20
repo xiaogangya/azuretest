@@ -39,3 +39,4 @@
 **Q:What do I do if I receive an email that asking me to renew my Office 365 certificate**
 
 Use the guidance that is outlined in the article here to resolve to [here](active-directory-aadconnect-o365-certs.md) renew the certificate.
+test

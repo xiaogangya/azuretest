@@ -169,3 +169,5 @@ The following configuration sections and connection string have been added.
 Your Azure Active Directory App was updated to include the *Read directory data* permission and an additional key was created which was then used as the *ida:ClientSecret* in the `web.config` file.
 
 [Learn more about Azure Active Directory](http://azure.microsoft.com/services/active-directory/)
+
+test

@@ -95,3 +95,5 @@ For information about other ways you can work with Hadoop on HDInsight:
 * [Use Hive with Hadoop on HDInsight](hdinsight-use-hive.md)
 
 * [Use Pig with Hadoop on HDInsight](hdinsight-use-pig.md)
+
+test

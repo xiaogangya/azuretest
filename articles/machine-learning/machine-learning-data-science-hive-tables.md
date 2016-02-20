@@ -145,3 +145,5 @@ Users cannot directly load data in blob to Hive tables in ORC storage format. He
 
 Now we have a table with data in the ORC format ready to use. 
  
+
+test

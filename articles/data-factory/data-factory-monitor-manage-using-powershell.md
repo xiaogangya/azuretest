@@ -432,3 +432,4 @@ We would really appreciate your feedback on this article. Please take a few minu
 
 [sql-management-studio]: ../sql-database-manage-azure-ssms.md#Step2
  
+test

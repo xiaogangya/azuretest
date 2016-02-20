@@ -301,3 +301,5 @@ For an example of what protection levels Silverlight supports, see: [Silverlight
 	  </xs:complexType>
 	  <xs:element name="ScmsRestriction" nillable="true" type="tns:ScmsRestriction" />
 	</xs:schema>
+
+test

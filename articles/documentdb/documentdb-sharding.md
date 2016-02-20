@@ -168,3 +168,4 @@ You can chain PartitionResolvers by implementing your own IPartitionResolver tha
 * [DocumentDB Limits](documentdb-limits.md)
 * [DocumentDB Blog on Performance Tips](http://azure.microsoft.com/blog/2015/01/20/performance-tips-for-azure-documentdb-part-1-2/)
  
+test

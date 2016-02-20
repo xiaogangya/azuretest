@@ -58,3 +58,4 @@ Then, open a command prompt on the Windows 7 machine and execute the following c
 Event Viewer and Errors for Windows 7 domain joined devices.
 
 The Windows Event Log on the Windows 7 machine will display messages related to Workplace Join. You can find messages for both successful and unsuccessful Workplace Join events. The Event Log can be found in the Event Viewer under Applications and Services Logs> Microsoft-Workplace Join.
+test

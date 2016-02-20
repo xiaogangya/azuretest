@@ -213,3 +213,5 @@ This article has explained the authentication services provided by Azure App Ser
 ### <a id="maobo"></a>Mobile Apps on-behalf-of calls to secured resources
 
 * [Obtain an access token and call the SharePoint API in a mobile app](../app-service-mobile/app-service-mobile-dotnet-backend-get-started-connect-to-enterprise.md#obtain-token)
+
+test

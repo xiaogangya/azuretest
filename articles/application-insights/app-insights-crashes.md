@@ -20,3 +20,4 @@
 This article has moved. Please see [app-insights-windows-crashes](app-insights-windows-crashes.md)
 
  
+test

@@ -121,3 +121,5 @@ To learn more about pricing and managing data with Azure DocumentDB, explore the
 To learn more about DocumentDB, see the Azure DocumentDB [documentation](http://azure.microsoft.com/documentation/services/documentdb/). 
 
 [1]: ./media/documentdb-performance-levels/img1.png 
+
+test

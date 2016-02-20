@@ -267,3 +267,5 @@ For frequently asked questions on consumption of the web service or publishing t
 [3]: ./media/machine-learning-r-csharp-normal-distribution/normal-img3.png
 [4]: ./media/machine-learning-r-csharp-normal-distribution/normal-img4.png
  
+
+test

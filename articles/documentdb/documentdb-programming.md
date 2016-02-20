@@ -919,3 +919,4 @@ You may also find the following references and resources useful in your path to 
 -	[Secure and Portable Database Extensibility](http://dl.acm.org/citation.cfm?id=276339) 
 -	[Service Oriented Database Architecture](http://dl.acm.org/citation.cfm?id=1066267&coll=Portal&dl=GUIDE) 
 -	[Hosting the .NET Runtime in Microsoft SQL server](http://dl.acm.org/citation.cfm?id=1007669)  
+test

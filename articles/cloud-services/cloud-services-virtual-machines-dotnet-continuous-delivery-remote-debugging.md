@@ -94,3 +94,4 @@ In this topic:
 
 6. Import the certificate (.pfx) to the machine that has Visual Studio with Azure SDK for .NET installed.
  
+test

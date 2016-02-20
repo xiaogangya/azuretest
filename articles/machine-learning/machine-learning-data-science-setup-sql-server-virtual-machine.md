@@ -409,3 +409,4 @@ The next steps in the data science process are mapped in the [Learning Guide: Ad
 [13]: ./media/machine-learning-data-science-setup-sql-server-virtual-machine/amlreader.png
 [15]: ./media/machine-learning-data-science-setup-sql-server-virtual-machine/vmshutdown.png
  
+test

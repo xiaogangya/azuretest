@@ -30,3 +30,5 @@
 -   appId/sdkKey configuration is replaced by a connection string configuration.
 -   Security improvements.
  
+
+test

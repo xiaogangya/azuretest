@@ -75,3 +75,5 @@ Here is an example for setting the role size to be small for a Web Role instance
 ## Next steps
 
 [Set Up a Cloud Service for Azure](https://msdn.microsoft.com/library/hh124108)  
+
+test

@@ -255,3 +255,4 @@ Now that you have learned how to use Mahout, discover other ways of working with
 [hadoopcli]: ./media/hdinsight-mahout/hadoopcli.png
 [tools]: https://github.com/Blackmist/hdinsight-tools
  
+test

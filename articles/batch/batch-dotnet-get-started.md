@@ -494,3 +494,5 @@ Because you are charged for resources in Azure, it's always a good idea to delet
 1. Now that you've learned the basics of running tasks, you can learn about how to automatically scale compute nodes when the demand for your application changes. To do this, see [Automatically scale Compute Nodes in an Azure Batch Pool](batch-automatic-scaling.md)
 
 2. Some applications produce large amounts of data that can be difficult to process. One way to solve this is through [efficient list querying](batch-efficient-list-queries.md).
+
+test

@@ -59,3 +59,5 @@ After you have completed both tutorials, you can prevent unauthenticated users f
 [Add push notifications to your app]: mobile-services-dotnet-backend-windows-phone-get-started-push.md
 
 [Azure Management Portal]: https://manage.windowsazure.com/
+
+test

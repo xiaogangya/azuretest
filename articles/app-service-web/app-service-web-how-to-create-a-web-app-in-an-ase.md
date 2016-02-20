@@ -90,3 +90,4 @@ After creating your web app and ASP it is a good idea to scale it up.  In an ASE
 [HowtoScale]: http://azure.microsoft.com/documentation/articles/app-service-web-scale-a-web-app-in-an-app-service-environment
 [HowtoConfigureASE]: http://azure.microsoft.com/documentation/articles/app-service-web-configure-an-app-service-environment
  
+test

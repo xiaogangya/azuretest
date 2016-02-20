@@ -100,3 +100,4 @@ Here is an example query:
 
 For information on more advanced sampling methods that are available in Hive, see [LanguageManual Sampling](https://cwiki.apache.org/confluence/display/Hive/LanguageManual+Sampling).
  
+test

@@ -231,3 +231,4 @@ Related topics covered in that article include the following:
 
 This guide has provided code samples that show how to handle common scenarios for working with Azure blobs. For more information about how to use Azure WebJobs and the WebJobs SDK, see [Azure WebJobs Recommended Resources](http://go.microsoft.com/fwlink/?linkid=390226).
  
+test

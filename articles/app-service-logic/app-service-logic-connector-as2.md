@@ -122,3 +122,5 @@ You can also review performance statistics and control security to the connector
 [8]: ./media/app-service-logic-connector-as2/ListOfActions.PNG
 [9]: ./media/app-service-logic-connector-as2/EncodeAndSendInput.PNG
 [10]: ./media/app-service-logic-connector-as2/EncodeAndSendConfigured.PNG
+
+test

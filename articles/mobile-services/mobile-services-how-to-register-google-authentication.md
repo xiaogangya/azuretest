@@ -57,3 +57,5 @@ You are now ready to configure your mobile service to use Google sign-in for aut
 
 [Azure Management Portal]: https://manage.windowsazure.com/
  
+
+test

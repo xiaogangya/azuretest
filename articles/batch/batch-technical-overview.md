@@ -152,3 +152,5 @@ After the account is created, you can find it in the portal to manage access key
 [account_keys]: ./media/batch-technical-overview/account_keys.PNG
 [work_item_workflow]: ./media/batch-technical-overview/work_item_workflow.png
 [app_pub_workflow]: ./media/batch-technical-overview/app_pub_workflow.png
+
+test

@@ -1180,3 +1180,4 @@ Simply clone down to your developer machine and configure as stated in the Walkt
 
 [AZURE.INCLUDE [active-directory-devquickstarts-additional-resources](../../includes/active-directory-devquickstarts-additional-resources.md)]
  
+test

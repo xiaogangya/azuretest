@@ -46,3 +46,4 @@ To learn more about throttling, see [Scaling API Endpoints](machine-learning-sca
 Once the endpoint is created, you can consume it through synchronous APIs, batch APIs, and excel worksheets.
 For more information about using Machine Learning web services, see [How to consume a published Azure Machine Learning web service](machine-learning-consume-web-services.md).
  
+test

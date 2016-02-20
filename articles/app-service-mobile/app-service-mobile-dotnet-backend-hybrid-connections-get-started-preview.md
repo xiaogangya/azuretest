@@ -161,3 +161,5 @@ Finally, you need to publish the Mobile App backend to Azure and verify that it 
 [Azure Portal]: https://portal.azure.com/
 [Azure Management Portal]: http://go.microsoft.com/fwlink/p/?linkid=213885
 [Get started with Mobile Services]: ../mobile-services-dotnet-backend-windows-store-dotnet-get-started.md
+
+test

@@ -42,3 +42,4 @@ To create a credit risk assessment solution, we'll follow these steps:
 This walkthrough is based on a simplified version of the
 [Credit risk prediction sample experiment](../machine-learning-sample-credit-risk-prediction.md) included with Machine Learning Studio.
  
+test

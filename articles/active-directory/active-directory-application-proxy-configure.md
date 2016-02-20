@@ -36,3 +36,5 @@ To get started using Application Proxy, follow these steps:
 [Enable Application Proxy services](https://msdn.microsoft.com/library/azure/dn768214.aspx)
 [Publish applications with Application Proxy](https://msdn.microsoft.com/library/azure/dn768220.aspx)
 [Troubleshoot Application Proxy](https://msdn.microsoft.com/library/azure/dn768218.aspx)
+
+test

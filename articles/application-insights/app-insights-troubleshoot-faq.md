@@ -242,3 +242,4 @@ You can [write a PowerShell script](app-insights-powershell-script-create-resour
 [windows]: app-insights-windows-get-started.md
 
  
+test

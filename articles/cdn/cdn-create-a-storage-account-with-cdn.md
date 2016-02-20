@@ -149,3 +149,5 @@ The ability to immediately purge content is currently not supported on Azure Man
 [create-new-storage-account]: ./media/cdn-create-a-storage-account-with-cdn/CDN_CreateNewStorageAcct.png
 
  
+
+test

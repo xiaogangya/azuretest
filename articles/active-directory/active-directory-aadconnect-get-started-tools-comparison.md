@@ -89,3 +89,5 @@ Allow minimal set of attributes to be synchronized (MinSync) | ● | ● |  |
 Allow different service templates to be applied for attribute flows |●  | ● |  |   
 Allow removing attributes from flowing from AD to Azure AD | ● | ● |  |  
 Allow advanced customization for attribute flows | ● | ● |  | ●  
+
+test

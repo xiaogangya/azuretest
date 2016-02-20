@@ -65,3 +65,4 @@ You can of course edit this alert rule, and **Disable** or **Enable** it if you 
 * [View events and audit logs](insights-debugging-with-events.md) to learn everything that has happened in your service.
 * [Track service health](insights-service-health.md) to find out when Azure has experienced performance degradation or service interruptions.
  
+test

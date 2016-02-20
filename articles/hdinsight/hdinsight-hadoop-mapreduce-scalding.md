@@ -289,3 +289,5 @@ Now that you have learned how to use Scalding to create MapReduce jobs for HDIns
 * [Use Pig with HDInsight](hdinsight-use-pig.md)
 
 * [Use MapReduce jobs with HDInsight](hdinsight-use-mapreduce.md)
+
+test

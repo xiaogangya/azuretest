@@ -125,3 +125,4 @@ Run the following command to see the generated events:
 
 	Get-AzureResourceGroupLog –Name $ResourceGroup -All | Where-Object EventSource -eq "Microsoft.DataFactory"
  
+test

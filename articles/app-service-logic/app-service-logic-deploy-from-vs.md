@@ -74,3 +74,4 @@ Finally, after you have configured your app you can deploy directly from Visual 
 In the future you can revise your Logic app in source control and use Visual Studio to deploy new versions. Note that if you modify the definition in the Azure Portal directly, the next time that you deploy from Visual Studio those changes will be overriden.
 
 If you do not want to use Visual Studio, but still want to having tooling to deploy your Logic app from source control you can always use the [API](https://msdn.microsoft.com/library/azure/dn948510.aspx) or [Powershell](../powershell-azure-resource-manager.md) directly to automate your deployments.  
+test

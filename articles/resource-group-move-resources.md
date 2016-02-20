@@ -102,3 +102,5 @@ In the request, include a JSON object that defines the target resource group and
 - [Using the Azure CLI with Resource Manager](./virtual-machines/xplat-cli-azure-resource-manager.md)
 - [Using the Azure Portal to manage resources](azure-portal/resource-group-portal.md)
 - [Using tags to organize your resources](./resource-group-using-tags.md)
+
+test

@@ -266,3 +266,5 @@ The size of the parameter file cannot be more than 64 KB.
 - For a list of the functions you can use in an Azure Resource Manager template, see [Template functions](../resource-group-template-functions.md)
 
  
+
+test

@@ -100,3 +100,5 @@ PowerShell provides other commands for working locks, such as **Set-AzureResourc
 - For more information about working with resource locks, see [Lock Down Your Azure Resources](http://blogs.msdn.com/b/cloud_solution_architect/archive/2015/06/18/lock-down-your-azure-resources.aspx)
 - To learn about logically organizing your resources, see [Using tags to organize your resources](resource-group-using-tags.md)
 - To change which resource group a resource resides in, see [Move resources to new resource group](resource-group-move-resources.md)
+
+test

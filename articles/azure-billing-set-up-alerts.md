@@ -45,3 +45,5 @@ After you set up alerts, the Account Center lists them and shows how many more y
 [Image1]: ./media/azure-billing-set-up-alerts/billingalert1.png
 [Image2]: ./media/azure-billing-set-up-alerts/billingalert2.png
 [Image3]: ./media/azure-billing-set-up-alerts/billingalerts3.png
+
+test

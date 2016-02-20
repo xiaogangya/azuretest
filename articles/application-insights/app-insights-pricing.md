@@ -134,3 +134,4 @@ Application Insights charges are added to your Azure bill. You can see details o
 [pricing]: http://azure.microsoft.com/pricing/details/application-insights/
 
  
+test

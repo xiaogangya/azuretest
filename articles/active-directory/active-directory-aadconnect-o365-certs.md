@@ -86,3 +86,5 @@ Two certificates should be listed now, one of which has a NotAfter date of appro
 
 >[AZURE.NOTE] If you need to support multiple top-level domains, such as contoso.com and fabrikam.com, you must use the SupportMultipleDomain switch with any cmdlets. For more information, see Support for Multiple Top Level Domains.
 Finally, ensure all Web Application Proxy servers are updated with [Windows Server May 2014](http://support.microsoft.com/kb/2955164) rollup, otherwise the proxies may fail to update themselves with the new certificate, resulting in an outage.
+
+test

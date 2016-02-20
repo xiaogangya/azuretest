@@ -626,3 +626,5 @@ Now that you have the big-picture, the next step is to write your first Azure ap
 
 
 [Azure Media Services Poster]: http://azure.microsoft.com/documentation/infographics/media-services/
+
+test

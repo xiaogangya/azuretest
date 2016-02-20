@@ -57,3 +57,4 @@ Azure publicizes each time there is a service interruption or performance degrad
 * [Monitor service metrics](insights-how-to-customize-monitoring.md) to make sure your service is available and responsive.
 * [Monitor availability and responsiveness of any web page](../app-insights-monitor-web-app-availability.md) with Application Insights so you can find out if your page is down.
  
+test

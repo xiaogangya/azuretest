@@ -69,3 +69,5 @@ This tutorial is based on the Mobile Services Quick Start and builds on the [Add
 
 [Azure Management Portal]: https://manage.windowsazure.com/
  
+
+test

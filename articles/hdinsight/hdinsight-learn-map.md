@@ -25,3 +25,4 @@ In HDInsight, you can work with big data in the cloud by using Hadoop, HBase, Ap
 <object type="image/svg+xml" data="https://sidneyhcontent.blob.core.windows.net/documentation/HDI.Content.Flow.svg" width="100%" height="100%">
 </object>
  
+test

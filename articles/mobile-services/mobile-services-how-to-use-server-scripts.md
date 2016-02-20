@@ -1041,3 +1041,5 @@ To avoid overloading your log, you should remove or disable calls to console.log
 [config module]: http://msdn.microsoft.com/library/dn508125.aspx
 [Support for package.json in Azure Mobile Services]: http://go.microsoft.com/fwlink/p/?LinkId=391036
  
+
+test

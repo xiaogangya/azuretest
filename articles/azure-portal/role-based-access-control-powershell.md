@@ -163,3 +163,5 @@ To learn more about managing role-based access control with Windows PowerShell, 
 - ["Hey, Scripting Guy!" Blog](http://blogs.technet.com/b/heyscriptingguy/): Get real-world tips and tricks from the Windows PowerShell community.
 - [Configure role based access control using Azure CLI](role-based-access-control-xplat-cli.md)
 - [Troubleshooting role based access control](role-based-access-control-troubleshooting.md)
+
+test

@@ -107,3 +107,4 @@ Re-publish your mobile backend project and run any of the client apps you have s
 [Get started with push notifications]: app-service-mobile-dotnet-backend-ios-get-started-push-preview.md
 [templates]: https://msdn.microsoft.com/en-us/library/dn530748.aspx
  
+test

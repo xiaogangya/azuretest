@@ -184,3 +184,4 @@ or,
 
 For an end-to-end walkthrough example using the Advanced Analytics Process and Technology (ADAPT) with a public dataset, see [Advanced Analytics Process and Technology in Action: using SQL Server](machine-learning-data-science-process-sql-walkthrough.md).
  
+test

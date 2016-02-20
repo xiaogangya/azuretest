@@ -101,3 +101,5 @@ To test your configuration, you need to grant the Azure AD users you want to all
 3.  Select your test user, click **Assign**, and then click **Yes** to confirm your assignment.
 
     ![Yes](./media/active-directory-saas-directions-microsoft-tutorial/IC767830.png "Yes")
+
+test

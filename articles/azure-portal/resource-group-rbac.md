@@ -270,3 +270,5 @@ Create the role assignment.
 - [Authenticating a Service Principal through Azure Resource Manager](../resource-group-authenticate-service-principal.md)
 
  
+
+test

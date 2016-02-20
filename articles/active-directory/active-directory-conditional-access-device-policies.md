@@ -44,3 +44,5 @@ It is on the roadmap to extend conditional access policy to users on other platf
 Q: When will conditional access policy to Office 365 services be extended to Browser based apps (for example, OWA, browser-based SharePoint).
 
 A: At the present time, conditional access to Office365 services is limited to rich applications on device. It is on the roadmap to extend conditional access policy to users accessing the services from browsers.
+
+test

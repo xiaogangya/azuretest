@@ -110,3 +110,4 @@ Now you should be in a state where your mobile service has been recovered to a n
 [Azure Service Dashboard]: http://www.windowsazure.com/support/service-dashboard/
 [Automate mobile services with the Azure CLI]: http://www.windowsazure.com/develop/mobile/tutorials/command-line-administration/
  
+test

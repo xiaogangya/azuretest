@@ -274,3 +274,5 @@ Without integration with Azure App Service Web Apps or Azure Cloud Services, it 
 - [How to Map Content Delivery Network (CDN) Content to a Custom Domain](http://msdn.microsoft.com/library/azure/gg680307.aspx)
 - [Using CDN for Azure](cdn-how-to-use-cdn.md)
  
+
+test

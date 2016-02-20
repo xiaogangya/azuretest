@@ -76,3 +76,5 @@ To add a the SignIn/SignOut controls to your view, you can use the **_LoginParti
 </pre>
 
 [Learn more about Azure Active Directory](http://azure.microsoft.com/services/active-directory/) 
+
+test

@@ -387,3 +387,4 @@ Proguard configuration can be impacted by rebranding, the rules are now looking 
 			  <methods>;
 			}
  
+test

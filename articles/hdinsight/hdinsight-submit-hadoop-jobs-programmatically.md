@@ -732,3 +732,5 @@ In this article, you have learned several ways to provision an HDInsight cluster
 [image-hdi-gettingstarted-mrjoboutput]: ./media/hdinsight-submit-hadoop-jobs-programmatically/HDI.GettingStarted.MRJobOutput.png
 
 [apache-hive]: http://hive.apache.org/
+
+test

@@ -139,3 +139,5 @@ Now you might be ready to configure and use some Azure AD Premium features.
 - [Group assignment to applications](active-directory-manage-groups.md)
 - [Azure Multi-Factor Authentication](multi-factor-authentication.md)
 - [Direct purchase of Azure AD Premium licenses](http://aka.ms/buyaadp)
+
+test

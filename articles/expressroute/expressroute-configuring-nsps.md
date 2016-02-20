@@ -149,3 +149,5 @@ Windows PowerShell is a powerful scripting environment that you can use to contr
 		New-AzureDedicatedCircuitLink -ServiceKey $ServiceKey -VNetName $Vnet
 		
 		Provisioned 
+
+test

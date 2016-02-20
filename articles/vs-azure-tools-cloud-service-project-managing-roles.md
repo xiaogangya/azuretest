@@ -54,3 +54,5 @@ For example, you might remove a web service role and later you decide to add thi
 	   </LocalResources>
 	</WebRole>
 
+
+test

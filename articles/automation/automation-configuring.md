@@ -66,3 +66,4 @@ You should repeat these lines after any [checkpoints](automation-runbook-executi
 ## Related articles
 - [Azure Automation: Authenticating to Azure using Azure Active Directory](http://azure.microsoft.com/blog/2014/08/27/azure-automation-authenticating-to-azure-using-azure-active-directory/)
  
+test

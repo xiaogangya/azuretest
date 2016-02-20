@@ -370,3 +370,4 @@ Provide a cluster name and press ENTER to provision a cluster with Solr installe
 [hdinsight-install-spark]: hdinsight-hadoop-spark-install.md
 [hdinsight-cluster-customize]: hdinsight-hadoop-customize-cluster.md
  
+test

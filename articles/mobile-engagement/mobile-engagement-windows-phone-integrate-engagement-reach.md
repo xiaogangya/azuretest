@@ -265,3 +265,5 @@ You can set the callback in your `Application_Launching` method of your `App.xam
 [Content Policies]:http://msdn.microsoft.com/library/windows/apps/hh184842(v=vs.105).aspx
 [Additional Requirements for Specific Application Types]:http://msdn.microsoft.com/library/windows/apps/hh184838(v=vs.105).aspx
  
+
+test

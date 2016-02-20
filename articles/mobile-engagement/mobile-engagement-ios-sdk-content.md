@@ -41,3 +41,5 @@ This document lists and describes the content of the SDK archive.
 `src` folder
 
 > Engagement view controllers and Reach SDK's source code (for power users who want to adapt Engagement classes to their needs).
+
+test

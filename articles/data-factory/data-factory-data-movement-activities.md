@@ -96,3 +96,4 @@ In case of Copy activity the **typeProperties** section varies depending on the 
 
 ## Send Feedback
 We would really appreciate your feedback on this article. Please take a few minutes to submit your feedback via [email](mailto:adfdocfeedback@microsoft.com?subject=data-factory-data-movement-activities.md). 
+test

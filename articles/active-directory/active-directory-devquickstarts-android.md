@@ -454,3 +454,4 @@ Adal version 1.1.0 supports NTLM dialog that is processed through onReceivedHttp
 
 [AZURE.INCLUDE [active-directory-devquickstarts-additional-resources](../../includes/active-directory-devquickstarts-additional-resources.md)]
  
+test

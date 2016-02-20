@@ -142,3 +142,5 @@ To learn more about managing role-based access control with Azure CLI and relate
 - [Install and Configure the Azure CLI](xplat-cli-install.md)
 - [Using the Azure CLI with the Resource Manager](xplat-cli-azure-resource-manager.md)
 - [Using Resource groups to manage your Azure resources](resource-groups-overview.md): Learn how to create and manage resource groups in the Azure Management Portal.
+
+test

@@ -796,3 +796,5 @@ In this article, you have learned several ways to provision an HDInsight cluster
 
 [hdinsight-sdk-documentation]: http://msdn.microsoft.com/library/dn479185.aspx
 [azure-management-portal]: https://manage.windowsazure.com
+
+test

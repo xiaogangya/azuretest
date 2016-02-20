@@ -97,3 +97,5 @@ For the SDK, the story is similar. The creation and provisioning of a cluster by
 - [ZooKeeper](http://zookeeper.apache.org/ )
 - [Connect to HDInsight clusters using RDP](hdinsight-administer-use-management-portal.md#rdp)
 - [Using HDInsight .NET SDK](hdinsight-provision-clusters.md#sdk)
+
+test

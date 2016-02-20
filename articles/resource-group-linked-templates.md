@@ -116,3 +116,5 @@ If you need to pass a value from linked template to the main template, you can c
 ## Next steps
 - [Authoring templates](./resource-group-authoring-templates.md)
 - [Deploying templates](azure-portal/resource-group-template-deploy.md)
+
+test

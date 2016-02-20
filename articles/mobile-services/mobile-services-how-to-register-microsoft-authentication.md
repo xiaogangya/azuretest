@@ -102,3 +102,4 @@ Both your mobile service and your app are now configured to work with Microsoft 
 
 [Azure Management Portal]: https://manage.windowsazure.com/
  
+test

@@ -234,3 +234,4 @@ For information on other ways you can work with Hadoop on HDInsight.
 
 * [Use MapReduce with Hadoop on HDInsight](hdinsight-use-mapreduce.md)
 [preview-portal]: https://portal.azure.com/
+test

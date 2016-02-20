@@ -182,3 +182,5 @@ As you configure your virtual machine and install software on it, it's a good id
 
 [Azure Tools for Microsoft Visual Studio](https://msdn.microsoft.com/library/azure/ee405484.aspx)
 
+
+test

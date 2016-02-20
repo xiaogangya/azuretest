@@ -471,3 +471,4 @@ Add AuthorizationPolicy to the ContentKey as shown [here](#AddAuthorizationPolic
 Now that you have configured content key's authorization policy, go to the [How to configure asset delivery policy](media-services-rest-configure-asset-delivery-policy.md) topic.
 
  
+test

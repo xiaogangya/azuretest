@@ -122,3 +122,5 @@ The availability of services and features for a Microsoft cloud service varies b
 [10]: ./media/active-directory-get-started-premium/contosolicenseplan.png
 [11]: ./media/active-directory-get-started-premium/Assignlicensespicker.png
 [12]: ./media/active-directory-get-started-premium/Usagelocation.png
+
+test

@@ -63,3 +63,5 @@ Also, consider finding out more about the following Mobile Services topics:
 
 [Define a custom API that supports periodic notifications]: mobile-services-windows-store-dotnet-create-pull-notifications.md
 [Store server scripts in source control]: mobile-services-store-scripts-source-control.md
+
+test

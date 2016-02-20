@@ -219,3 +219,4 @@ In this tutorial, you have learned how to configure name resolution across virtu
 [powershell-install]: ../install-configure-powershell.md
 
 [img-vnet-diagram]: ./media/hdinsight-hbase-geo-replication-configure-DNS/HDInsight.HBase.VPN.diagram.png 
+test

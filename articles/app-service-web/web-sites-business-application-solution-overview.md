@@ -124,3 +124,5 @@ In the **Standard** tier, monitor app responsiveness receive email notifications
 [How to: Receive Alert Notifications and Manage Alert Rules in Azure]:http://msdn.microsoft.com/library/windowsazure/dn306638.aspx
 
  
+
+test

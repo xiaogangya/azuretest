@@ -204,3 +204,5 @@ Any user accessing the data in the portal, must be licensed with an Azure AD Pre
 
 
 * [How can I discover unsanctioned cloud apps that are used within my organization](active-directory-cloudappdiscovery-whatis.md)
+
+test

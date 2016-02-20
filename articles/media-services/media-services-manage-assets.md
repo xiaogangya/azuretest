@@ -83,3 +83,4 @@ The following code snippet deletes all the assets from the Media Services accoun
 	}
 
  
+test

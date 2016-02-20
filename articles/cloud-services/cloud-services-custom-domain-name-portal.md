@@ -155,3 +155,4 @@ This example demonstrates creating an A record for the root domain. If you wish 
 [vip]: ./media/cloud-services-custom-domain-name-portal/csvip.png
 [csurl]: ./media/cloud-services-custom-domain-name-portal/csurl.png
  
+test

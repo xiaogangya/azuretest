@@ -127,3 +127,4 @@ See [Develop Script Action scripts for HDInsight][hdinsight-write-script].
 
 [img-hdi-cluster-states]: ./media/hdinsight-hadoop-customize-cluster/HDI-Cluster-state.png "Stages during cluster provisioning"
  
+test

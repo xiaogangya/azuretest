@@ -272,3 +272,5 @@ These are some of the resources available that you can use to learn to use Azure
 
 
   [Microsoft Online Services Customer Portal]: https://mocp.microsoftonline.com/site/default.aspx
+
+test

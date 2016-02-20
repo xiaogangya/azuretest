@@ -287,3 +287,5 @@ For more information about how to use Azure command line utilities with Azure Re
 * [Using the Azure CLI for Mac, Linux, and Windows with Azure Resource Management](../xplat-cli-azure-resource-manager.md).
 * [Using Azure PowerShell with Azure Resource Manager](../powershell-azure-resource-manager.md)
  
+
+test

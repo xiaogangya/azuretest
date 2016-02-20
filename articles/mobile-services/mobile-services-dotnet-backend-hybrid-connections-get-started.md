@@ -133,3 +133,4 @@ Now that you have verified the database connection, you need to add an app setti
 <!-- Links -->
 [Azure Management Portal]: http://manage.windowsazure.com
 [Get started with Mobile Services]: mobile-services-dotnet-backend-windows-store-dotnet-get-started.md 
+test

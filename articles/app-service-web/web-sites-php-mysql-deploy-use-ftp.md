@@ -290,3 +290,5 @@ After uploading both `index.php` and `createtable.php`, browse to **http://[site
 [management-portal]: https://portal.azure.com
 [download-publish-profile]: ./media/web-sites-php-mysql-deploy-use-ftp/download_publish_profile_3.png
  
+
+test

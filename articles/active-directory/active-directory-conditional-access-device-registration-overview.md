@@ -85,3 +85,5 @@ For example, if you use two UPN suffixes at your organization named @contoso.com
 
 You can register your Windows 7 and Windows 8.1 Domain Joined devices with Azure AD Device Registration. The following topic provides more information about the prerequisites and the steps required to configure device registration on Windows 7 and Windows 8.1 devices.
 Automatic Device Registration with Azure Active Directory for Windows Domain-Joined Devices 
+
+test

@@ -126,3 +126,5 @@ That’s it! You've successfully created a blog web app using Umbraco CMS, in ju
 [16EnterAName]: ./media/web-sites-gallery-umbraco/16EnterAName.PNG
 [17MyPage]: ./media/web-sites-gallery-umbraco/17MyPage.PNG
  
+
+test

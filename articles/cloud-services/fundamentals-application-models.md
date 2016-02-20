@@ -80,3 +80,5 @@ As the figure illustrates, the Cloud Services VMs run in a separate cloud servic
 * Learn more about [App Service](../app-service-web-overview.md)
 * Learn more about [Cloud Service](services/cloud-services/)
 * Learn more about [Virtual Machines](https://msdn.microsoft.com/library/azure/jj156143.aspx) 
+
+test

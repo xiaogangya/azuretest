@@ -106,3 +106,5 @@ deployment by swapping VIPs with the deployment in staging.
   [How to Deploy a Service Upgrade to Production by Swapping VIPs in Azure]: http://msdn.microsoft.com/library/windowsazure/ee517253.aspx
   [Overview of Managing Deployments in Azure]: http://msdn.microsoft.com/library/windowsazure/hh386336.aspx
  
+
+test

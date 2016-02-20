@@ -106,3 +106,4 @@ For more information about universal Windows apps, see [Supporting multiple devi
 [Management Portal]: https://manage.windowsazure.com/
 [Get started with data in Mobile Services using Visual Studio 2012]: ../mobile-services-windows-store-dotnet-get-started-data-vs2012.md
  
+test

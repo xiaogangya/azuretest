@@ -76,3 +76,4 @@ See [Get started with Application Insights for Windows Phone and Store apps](app
 ## Version 0.13
 
 No release notes for older versions available. 
+test

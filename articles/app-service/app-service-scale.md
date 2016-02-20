@@ -131,3 +131,4 @@ Depending on the pricing tier, the following developer-oriented features are ava
 [ScaleDatabase]: ./media/web-sites-scale/scale11SQLScale.png
 [GeoReplication]: ./media/web-sites-scale/scale12SQLGeoReplication.png
  
+test

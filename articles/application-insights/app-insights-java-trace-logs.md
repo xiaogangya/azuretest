@@ -148,3 +148,4 @@ Now that you've configured your project to send traces to Application Insights, 
 [java]: app-insights-java-get-started.md
 
  
+test

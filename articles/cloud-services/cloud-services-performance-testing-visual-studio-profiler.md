@@ -205,3 +205,4 @@ Instrumenting Azure binaries in the emulator is not supported in the Visual Stud
 [16]: ./media/cloud-services-performance-testing-visual-studio-profiler/ProfilingLocally012.png
 [17]: ./media/cloud-services-performance-testing-visual-studio-profiler/ProfilingLocally08.png
  
+test

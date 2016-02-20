@@ -103,3 +103,5 @@ Code running in a role instance can access a local storage resource that is defi
 ## Next steps
 
 - [Set Up a Cloud Service for Azure](https://msdn.microsoft.com/library/azure/hh124108.aspx)
+
+test

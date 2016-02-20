@@ -59,3 +59,5 @@ The method `application:didReceiveRemoteNotification:` needs to be replaced by `
 	-(void)didFailToRetrieveLaunchMessage;
 	-(void)didReceiveLaunchMessage:(AEPushMessage*)launchMessage;
 
+
+test

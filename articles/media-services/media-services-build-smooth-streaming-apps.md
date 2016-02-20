@@ -975,3 +975,5 @@ You have completed lesson 4.  In this lesson, you add the functionality to choos
 [PlayerApplication]: ./media/media-services-build-smooth-streaming-apps/SSClientWin8-1.png
 [CodeViewPic]: ./media/media-services-build-smooth-streaming-apps/SSClientWin8-2.png
  
+
+test

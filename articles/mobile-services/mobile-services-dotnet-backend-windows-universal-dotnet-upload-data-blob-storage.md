@@ -70,3 +70,4 @@ Now that you have been able to securely upload images by integrating your mobile
 [How To Create a Storage Account]: ../storage-create-storage-account.md
 [Azure Storage Client library for Store apps]: http://go.microsoft.com/fwlink/p/?LinkId=276866 
  
+test

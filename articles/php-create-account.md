@@ -19,3 +19,5 @@
 # Create an Azure account and enable preview features
 
 [AZURE.INCLUDE [create-an-azure-account](../includes/create-an-azure-account.md)]
+
+test

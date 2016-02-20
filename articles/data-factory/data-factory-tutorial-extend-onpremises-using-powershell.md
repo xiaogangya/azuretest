@@ -169,3 +169,4 @@ Congratulations! You have successfully gone through the walkthrough to use your 
 [image-data-factory-datamanagementgateway-configuration-manager]: ./media/data-factory-tutorial-extend-onpremises-using-powershell/DataManagementGatewayConfigurationManager.png
 
  
+test

@@ -70,3 +70,5 @@ Now let’s suppose that John Doe needs to sign in to the Azure Management Porta
 
 ##Next steps
 For more information about the relationship between subscriptions and directories, see [How a subscription is associated with a directory](active-directory-how-subscriptions-associated-directory.md).
+
+test

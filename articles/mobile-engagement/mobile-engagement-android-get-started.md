@@ -408,3 +408,5 @@ We will now create a simple push notification campaign that sends a push notific
 [37]: ./media/mobile-engagement-android-get-started/campaign-content.png
 [38]: ./media/mobile-engagement-android-get-started/campaign-create.png
 [39]: ./media/mobile-engagement-android-get-started/campaign-activate.png
+
+test

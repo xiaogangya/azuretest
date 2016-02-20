@@ -70,3 +70,5 @@ This topic lists current Microsoft Azure CDN point of presence (POP) locations.
 
 - Melbourne
 - Sydney 
+
+test

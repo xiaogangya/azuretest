@@ -109,3 +109,4 @@ Then, when you're ready to learn more, visit our [learning path](http://azure.mi
 
 [1]: ./media/documentdb-introduction/resources1.png
  
+test

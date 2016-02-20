@@ -64,3 +64,4 @@ The following are possible issues you may encounter with how Azure Mobile Engage
 - To further troubleshoot application crashes perform an event from a test device with your application installed and look up your device ID in the “Monitor – Events” section of the Azure Mobile Engagement UI. Then perform the event that is causing your application to crash and look up additional information in the “Monitor – Crash” section of the Azure Mobile Engagement UI. 
 
  
+test

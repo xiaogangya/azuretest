@@ -44,3 +44,4 @@ Azure AD Device Registration provisions devices with an identity that is used to
 * [Sign up for Azure as an organization](sign-up-organization.md)
 * [Azure Identity](fundamentals-identity.md)
  
+test

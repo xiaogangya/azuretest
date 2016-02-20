@@ -160,3 +160,5 @@ Users cannot directly load data from blob storage into Hive tables that is store
 		DROP TABLE IF EXISTS <database name>.<external textfile table name>;
 
 After following this procedure, you should have a table with data in the ORC format ready to use.  
+
+test

@@ -400,3 +400,5 @@ Within the main template, you can use that data with the following syntax:
 - [Authoring Azure Resource Manager Templates](resource-group-authoring-templates.md)
 - [Azure Resource Manager Template Functions](resource-group-template-functions.md)
 
+
+test

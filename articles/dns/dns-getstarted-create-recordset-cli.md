@@ -121,3 +121,4 @@ You can also use nslookup or other DNS tools to query the new record set.
 
 [Automate Azure Operations with .NET SDK](dns-sdk.md)
  
+test

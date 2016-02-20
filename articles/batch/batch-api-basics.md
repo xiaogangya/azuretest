@@ -385,3 +385,4 @@ Each node in a pool is given a unique name and the node on which a task runs inc
 [1]: ./media/batch-api-basics/batch-api-basics-01.png
 
 [Azure Batch overview]: batch-technical-overview.md
+test

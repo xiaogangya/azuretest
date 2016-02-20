@@ -142,3 +142,5 @@ To test your configuration, you need to grant the Azure AD users you want to all
 You should now wait for 10 minutes and verify that the account has been synchronized to Concur.
 
 If you want to test your single sign-on settings, open the Access Panel. For more details about the Access Panel, see [Introduction to the Access Panel](https://msdn.microsoft.com/library/dn308586).
+
+test

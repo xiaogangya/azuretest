@@ -360,3 +360,5 @@ If you want to continue using the AzureMLBatchScoring activity, please refer to 
 
 
  
+
+test

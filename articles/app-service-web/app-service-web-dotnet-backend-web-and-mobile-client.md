@@ -19,3 +19,5 @@
 # Create an app with a mobile and web client in Azure App Service
 
 [AZURE.INCLUDE [app-service-mobile-dotnet-backend-web-and-mobile](../../includes/app-service-mobile-dotnet-backend-web-and-mobile.md)]
+
+test

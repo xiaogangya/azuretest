@@ -96,3 +96,4 @@ The details blade will display the available information related to the operatio
 [DetailsButton]: ./media/web-sites-restore/12DetailsButton.png
 [OperationDetails]: ./media/web-sites-restore/13OperationDetails.png
  
+test

@@ -168,3 +168,4 @@ In this article, you have learned how to create an HDInsight cluster by using th
 * [What version of Hadoop is in Azure HDInsight?](hdinsight-component-versioning.md)
 
 [preview-portal]: https://portal.azure.com
+test

@@ -77,3 +77,4 @@ The following table summarizes the differences between the two methods for calli
 
 - [Starting a runbook in Azure Automation](automation-starting-a-runbook.md)
 - [Runbook output and messages in Azure Automation](automation-runbook-output-and-messages.md)
+test

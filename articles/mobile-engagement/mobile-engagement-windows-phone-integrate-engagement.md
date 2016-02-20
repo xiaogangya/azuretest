@@ -246,3 +246,4 @@ The burst mode slightly increase the battery life but has an impact on the Engag
 
 > [AZURE.WARNING] The burst threshold cannot be configured to a period lesser than one second. If you try to do so, the SDK will show a trace with the error and will automatically reset to the default value, that is, zero seconds. This will trigger the SDK to report the logs in real-time.
  
+test

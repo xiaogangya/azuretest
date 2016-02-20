@@ -21,3 +21,4 @@
 
 > [AZURE.NOTE] This article has moved. Please see: [Monitor availability and responsiveness of any web site](../app-insights-monitor-web-app-availability.md)
  
+test

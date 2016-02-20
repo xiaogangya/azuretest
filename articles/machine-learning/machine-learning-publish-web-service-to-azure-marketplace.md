@@ -108,3 +108,5 @@ deploy the service into production.
 [apikey]:./media/machine-learning-publish-web-service-to-azure-marketplace/apikey.png
 [odata]:./media/machine-learning-publish-web-service-to-azure-marketplace/odata.png
  
+
+test

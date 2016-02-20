@@ -271,3 +271,5 @@ The errors a user can encounter in Azure PowerShell or in the preview portal are
 [hdinsight-sdk-documentation]: http://msdnstage.redmond.corp.microsoft.com/library/dn479185.aspx
 
 [image-hdi-debugging-error-messages-portal]: ./media/hdinsight-debug-jobs/hdi-debug-errormessages-portal.png
+
+test

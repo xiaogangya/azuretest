@@ -304,3 +304,5 @@ Once the pipeline executes, you should be able to see the data show up in the co
 Note that we have not leveraged the functionality provided by ADF to pipe data incrementally. For more details on how to do this and other capabilities provided by ADF, see the [ADF documentation](http://azure.microsoft.com/services/data-factory/). 
 
 
+
+test

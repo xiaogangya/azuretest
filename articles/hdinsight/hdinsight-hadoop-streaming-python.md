@@ -204,3 +204,5 @@ Now that you have learned how to use streaming MapRedcue jobs with HDInsight, us
 * [Use Hive with HDInsight](hdinsight-use-hive.md)
 * [Use Pig with HDInsight](hdinsight-use-pig.md)
 * [Use MapReduce jobs with HDInsight](hdinsight-use-mapreduce.md)
+
+test

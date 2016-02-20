@@ -57,3 +57,4 @@ After testing is completed, then the application can be listed in the Azure Acti
 >
 > Attach Application Logo (PNG file, 150px by 122px, transparent background color):
  
+test

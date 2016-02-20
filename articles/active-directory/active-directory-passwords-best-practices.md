@@ -139,3 +139,4 @@ We are working on sample training materials that you can use to get your IT orga
 [005]: ./media/active-directory-passwords-best-practices/005.jpg "Image_005.jpg"
 [006]: ./media/active-directory-passwords-best-practices/006.jpg "Image_006.jpg"
  
+test

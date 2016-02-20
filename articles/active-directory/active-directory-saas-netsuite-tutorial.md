@@ -253,3 +253,5 @@ This tutorial will show you how to connect your NetSuite environment to your Azu
 [30]: ./media/active-directory-saas-netsuite-tutorial/ns-confirm.png
 [31]: ./media/active-directory-saas-netsuite-tutorial/assign-users.png
 [32]: ./media/active-directory-saas-netsuite-tutorial/assign-confirm.png
+
+test

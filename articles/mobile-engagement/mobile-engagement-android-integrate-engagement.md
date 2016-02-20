@@ -385,3 +385,4 @@ Then you can add a `CheckBoxPreference` in your preference layout like the follo
 <!-- URLs. -->
 [Device API]: http://go.microsoft.com/?linkid=9876094
  
+test

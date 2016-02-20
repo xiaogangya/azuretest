@@ -192,3 +192,5 @@ Although MapReduce provides powerful diagnostic abilities, it can be a bit chall
 [powershell-install-configure]: ../powershell-install-configure.md
 
 [image-hdi-wordcountdiagram]: ./media/hdinsight-use-mapreduce/HDI.WordCountDiagram.gif
+
+test

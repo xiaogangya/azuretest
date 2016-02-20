@@ -154,3 +154,4 @@ Then, you can copy this Device ID and register it in the "UI - My Account - Devi
 
  
  
+test

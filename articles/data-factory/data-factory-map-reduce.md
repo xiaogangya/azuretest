@@ -101,3 +101,4 @@ You can download a sample for using the HDInsight Activity with MapReduce Transf
 [Developer Reference]: http://go.microsoft.com/fwlink/?LinkId=516908
 [Azure Portal]: http://portal.azure.com
  
+test

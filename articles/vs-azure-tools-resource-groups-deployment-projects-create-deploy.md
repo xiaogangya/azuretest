@@ -199,3 +199,5 @@ Adjustements were also made to some variable names and build tasks to better ali
 To learn how to add resources to your Azure Resource Group in Visual Studio, see [Adding resources to an Azure Resource Group](https://msdn.microsoft.com/library/azure/mt125415.aspx).
 
 
+
+test

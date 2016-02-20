@@ -89,3 +89,5 @@ From this article and the articles in each of the samples, you learned how to ru
 
 [hdinsight-use-hive]: hdinsight-use-hive.md
 [hdinsight-use-pig]: hdinsight-use-pig.md
+
+test

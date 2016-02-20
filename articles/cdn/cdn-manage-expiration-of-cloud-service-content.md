@@ -50,3 +50,4 @@ For example, to cache content for one hour, add the following:
 
 [How to Manage Expiration of Blob Content in the Azure Content Delivery Network (CDN)](./cdn-manage-expiration-of-blob-content.md
 ) 
+test

@@ -188,3 +188,4 @@ For more information about registering scripts, see [Mobile Services server scri
 [How to install the Azure Command-Line Tools for Mac and Linux]: http://go.microsoft.com/fwlink/p/?LinkId=275795
 
  
+test

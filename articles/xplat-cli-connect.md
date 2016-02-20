@@ -144,3 +144,5 @@ Once you are connected to your Azure subscription, you can start using the Azure
 [signuporg]: http://azure.microsoft.com/en-us/documentation/articles/sign-up-organization/
 [cliasm]: virtual-machines/virtual-machines-command-line-tools.md
 [cliarm]: virtual-machines/xplat-cli-azure-resource-manager.md
+
+test

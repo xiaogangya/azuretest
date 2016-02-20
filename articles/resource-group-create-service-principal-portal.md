@@ -118,3 +118,5 @@ Your application is now ready and the service principal created on your tenant. 
 [11]: ./media/resource-group-create-service-principal-portal/view-applications.png
 [12]: ./media/resource-group-create-service-principal-portal/add-icon.png
 [13]: ./media/resource-group-create-service-principal-portal/save-icon.png
+
+test

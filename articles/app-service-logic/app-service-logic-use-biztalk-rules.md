@@ -252,3 +252,5 @@ One of the main advantages of using Business Rules is that changes to business l
 [9]: ./media/app-service-logic-use-biztalk-rules/RuleCreate.PNG
 [10]: ./media/app-service-logic-use-biztalk-rules/APIDef.PNG
 [11]: ./media/app-service-logic-use-biztalk-rules/PublicAnon.PNG
+
+test

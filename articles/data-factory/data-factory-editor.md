@@ -220,3 +220,4 @@ See the [Get started with Azure Data Factory][data-factory-get-started] topic fo
 [delete-datafactory-entity]: ./media/data-factory-editor/delete-datafactory-entity.png
 [clone-datafactory-entity]: ./media/data-factory-editor/clone-datafactory-entity.png
 [add-activity-options]: ./media/data-factory-editor/add-activity-options.png 
+test
