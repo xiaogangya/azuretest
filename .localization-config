@@ -1,10 +1,47 @@
-{
-  "locales": [ "de-de", "ja-jp", "zh-tw", "ru-ru", "pl-pl", "ko-kr" ],
-  "files": [
-    "*/*.md",
-    "*/**/*.md"
-  ],
-  "includeDependencies": true,
-  "autoPush": true,
-  "xliffVersion": "1.2"
+{  
+   "filters":[  
+      {  
+         "metadata":{  
+            "ms.topic":[  
+               "hero-topics",
+               "getting-started-topics"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"high",
+               "locales":[  
+                  "de-de",
+                  "ja-jp",
+                  "zh-tw",
+                  "ru-ru",
+                  "pl-pl",
+                  "ko-kr"
+               ]
+            }
+         ]
+      },
+      {  
+         "files":[  
+            "**/*.md",
+            "**/**/*.md"
+         ],
+         "priorities":[  
+            {  
+               "priority":"ht",
+               "locales":[  
+                  "de-de",
+                  "ja-jp",
+                  "zh-tw",
+                  "ru-ru",
+                  "pl-pl",
+                  "ko-kr"
+               ]
+            }
+         ]
+      }
+   ],
+   "includeDependencies":true,
+   "autoPush":true,
+   "xliffVersion":"1.2"
 }
