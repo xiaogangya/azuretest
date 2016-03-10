@@ -12,7 +12,7 @@
 	ms.workload="identity" 
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
-	ms.topic="article" 
+	ms.topic="hero-topics" 
 	ms.date="08/24/2015" 
 	ms.author="billmath"/>
 
