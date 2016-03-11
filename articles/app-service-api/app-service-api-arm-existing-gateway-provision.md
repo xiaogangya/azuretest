@@ -12,7 +12,7 @@
 	ms.workload="web" 
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
-	ms.topic="article" 
+	ms.topic="hero-topics" 
 	ms.date="08/04/2015" 
 	ms.author="tomfitz"/>
 
