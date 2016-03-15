@@ -12,7 +12,8 @@ ms.tgt_pltfrm="mobile-ios"
 ms.devlang="objective-c"
 ms.topic="article"
 ms.date="05/19/2015"
-ms.author="mahender" />
+ms.author="mahender"
+ms.test="test-value1"/>
 
 # Add Azure Active Directory single sign-on to your iOS app
 
