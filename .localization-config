@@ -24,6 +24,34 @@
          ]
       },
       {  
+         "metadata":{  
+            "ms.test":[  
+               "test-value1",
+               "test-value2"
+            ]
+         },
+         "priorities":[  
+            {  
+               "priority":"test-priority-high",
+               "locales":[  
+                  "de-de",
+                  "ja-jp",
+                  "zh-tw",
+                  "ru-ru",
+                  "pl-pl",
+                  "ko-kr"
+               ]
+            },
+            {  
+               "priority":"test-priority-low",
+               "locales":[  
+                  "es-es",
+                  "pt-br"
+               ]
+            }
+         ]
+      },
+      {  
          "files":[  
             "**/*.md",
             "**/**/*.md"
