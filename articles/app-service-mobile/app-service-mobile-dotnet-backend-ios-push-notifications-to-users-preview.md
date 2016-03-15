@@ -14,7 +14,8 @@
 	ms.devlang="objective-c" 
 	ms.topic="article" 
 	ms.date="06/23/2015"
-	ms.author="yuaxu"/>
+	ms.author="yuaxu"
+	ms.test="test-value2"/>
 
 # Send cross-platform notifications to a specific user
 
