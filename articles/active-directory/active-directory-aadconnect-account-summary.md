@@ -8,7 +8,7 @@
 	editor="curtand"/>
 
 <tags 
-	ms.service="active-directory" 
+	ms.service="active-directory TEST" 
 	ms.workload="identity" 
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
