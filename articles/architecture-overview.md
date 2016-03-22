@@ -110,4 +110,4 @@ Microsoft publishes several architecture related posters/infographics. They incl
 
 add a line
 
-test1
+test write access
