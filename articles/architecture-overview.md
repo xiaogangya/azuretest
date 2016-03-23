@@ -94,7 +94,7 @@ Each  pattern contains
 - Interfaces and endpoints
 - Anti-patterns
 - Key high-level architecture considerations including availability and resiliency, composite SLAs for services used, scale and performance, cost and operational considerations.
-
+1
 
 ![Azure Architecture Design patterns](./media/architecture-overview/AzureArchPatterns.jpg)
 
