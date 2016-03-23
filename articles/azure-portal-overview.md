@@ -14,7 +14,7 @@
 	ms.devlang="na" 
 	ms.topic="hero-article"
 	ms.date="04/28/2015"
-	ms.author="dwrede"/>
+	ms.author="dwrede1"/>
 
 # Microsoft Azure preview portal overview
 
