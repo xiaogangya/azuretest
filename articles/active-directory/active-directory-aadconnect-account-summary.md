@@ -18,7 +18,7 @@
 
 
 
-# More about Azure AD Connect credentials and permissions 
+# More about Azure AD Connect credentials and permissions 1
 
 
 The Azure AD Connect wizard offers two different paths with distinct permissions requirements:  
