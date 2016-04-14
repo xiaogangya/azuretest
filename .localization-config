@@ -73,6 +73,6 @@
       }
    ],
    "includeDependencies":true,
-   "autoPush":false,
+   "autoPush":true,
    "xliffVersion":"1.2"
 }
