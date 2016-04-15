@@ -68,4 +68,4 @@
 - **Track the progress of long running workflows** and retry on failure. Long running workflows are often composed of multiple steps. When designing these types of workflows ensure that each step is independent and can be retried to minimize the chance that the entire workflow will need to be rolled back or that multiple compensating transactions need to be executed. Monitor and manage the progress of long-running workflows by implementing a pattern such as Scheduler Agent Supervisor. For more information, see the [Scheduler Agent Supervisor Pattern](https://msdn.microsoft.com/library/dn589780.aspx) page on the Microsoft website.
 - **Plan for disaster recovery.** Ensure there is a documented, agreed, and fully tested plan for recovery from any type of failure that may render part or all of the main system unavailable. Test the procedures regularly and ensure that all operations staff are familiar with the process.
 
-test
+test11
