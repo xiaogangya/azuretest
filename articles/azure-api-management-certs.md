@@ -36,7 +36,7 @@ Once you have a management certficate created, (.cer file with only the public k
     
     ![Settings](./media/azure-api-management-certs/settings.png)
 
-3. Click the **Management Certificates** tab.
+3. Click the **Management Certificates** tab.1
 
     ![Settings](./media/azure-api-management-certs/certificates-tab.png)
     
