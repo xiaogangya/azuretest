@@ -37,3 +37,5 @@ In the Azure portal, the **Configure** tab for the application you created in th
 ![](./media/app-service-api-gateway-config-auth/oldportal4.png)
 
 (The Reply URL in the image shows the same URL twice, once with `http:` and once with `https:`.)
+
+test
