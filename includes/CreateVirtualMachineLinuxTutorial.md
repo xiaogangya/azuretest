@@ -162,4 +162,4 @@ The data disk that you just attached to the virtual machine is offline and not i
 
 	>[AZURE.NOTE] Subsequently removing a data disk without editing fstab could cause the VM to fail to boot. If this is a common occurrence, then most distributions provide either the `nofail` and/or `nobootwait` fstab options that will allow a system to boot even if the disk is not present. Please consult your distribution's documentation for more information on these parameters.
 
-
+test1111
