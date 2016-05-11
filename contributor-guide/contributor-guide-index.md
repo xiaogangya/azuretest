@@ -2,7 +2,7 @@
 
 <tags ms.service="contributor-guide" ms.devlang="" ms.topic="article" ms.tgt_pltfrm="" ms.workload="" ms.date="12/19/2014" ms.author="tysonn" />
 
-#Azure technical content contributors' guide index
+# Azure technical content contributors' guide index
 
 ##General guidance
 
