@@ -1,5 +1,5 @@
 <properties 
-	pageTitle="Add a certificate to the Java CA store - Azure" 
+	pageTitle="Add a certificate to the Java CA store | Microsoft Azure" 
 	description="Learn how to add a certificate authority (CA) certificate to the Java CA certificate (cacerts) store for Twilio service or Azure Service Bus." 
 	services="" 
 	documentationCenter="java" 
@@ -13,7 +13,7 @@
 	ms.tgt_pltfrm="na" 
 	ms.devlang="Java" 
 	ms.topic="article" 
-	ms.date="06/03/2015" 
+	ms.date="08/31/2015" 
 	ms.author="robmcm"/>
 
 # Adding a Certificate to the Java CA Certificates Store
@@ -52,3 +52,4 @@ If you need to add the Baltimore CyberTrust Root, it has serial number 02:00:00:
 
 For more information about the root certificates used by Azure, see [Azure Root Certificate Migration](http://blogs.msdn.com/b/windowsazure/archive/2013/03/15/windows-azure-root-certificate-migration.aspx).
 
+test

@@ -1,5 +1,5 @@
 <properties
-	pageTitle="Multi-Tenant Web Application Pattern - Azure Architecture"
+	pageTitle="Multi-Tenant Web Application Pattern | Microsoft Azure"
 	description="Find architectural overviews and design patterns that describe how to implement a multi-tenant web application on Azure."
 	services=""
 	documentationCenter=".net"
@@ -94,3 +94,5 @@ Azure provides a number of ways provision new tenants for the application. For m
 
 [Hosting a Multi-Tenant Application on Azure]: http://msdn.microsoft.com/library/hh534480.aspx
 [Designing Multitenant Applications on Azure]: http://msdn.microsoft.com/library/windowsazure/hh689716
+
+test

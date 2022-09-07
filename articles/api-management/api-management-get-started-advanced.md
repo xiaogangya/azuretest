@@ -13,7 +13,7 @@
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="05/19/2015" 
+	ms.date="08/11/2015" 
 	ms.author="sdanie"/>
 
 # Get started with advanced Azure API Management configuration
@@ -35,3 +35,4 @@ The tutorials in this section provide guidance an advanced API Management config
 [How to delegate user registration and product subscription]: api-management-howto-setup-delegation.md
 
  
+test

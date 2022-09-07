@@ -13,7 +13,7 @@
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="05/19/2015" 
+	ms.date="08/11/2015" 
 	ms.author="sdanie"/>
 
 # How to create APIs, operations, and products in Azure API Management
@@ -61,3 +61,4 @@ In API Management, a product contains one or more APIs as well as a usage quota 
 [Monitoring and analytics]: ../api-management-monitoring.md
 [How to import the definition of an API with operations]: api-management-howto-import-api.md
 [How create and configure advanced product settings]: api-management-howto-product-with-rules.md 
+test

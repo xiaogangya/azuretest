@@ -147,3 +147,4 @@ For more information about working with products, see the following video.
 [Next steps]: #next-steps
 [How to create and use groups to manage developer accounts in Azure API Management]: api-management-howto-create-groups.md
 [How create and configure advanced product settings in Azure API Management]: api-management-howto-product-with-rules.md 
+test

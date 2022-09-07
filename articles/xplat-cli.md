@@ -252,9 +252,7 @@ If you are writing a script that relies on the exit status, please verify that t
 
 ## Additional resources
 
-* [List of detailed Service Management commands][Using the Azure CLI]
-
-* [Using the Azure CLI for Mac, Linux, and Windows](cli-cli-azure-resource-manager)
+* [Using the Azure CLI with Service Management][Using the Azure CLI]
 
 * [Using the Azure CLI with the Resource Manager][cliarm]
 
@@ -282,3 +280,5 @@ If you are writing a script that relies on the exit status, please verify that t
 [portal]: https://manage.windowsazure.com
 [signuporg]: http://www.windowsazure.com/documentation/articles/sign-up-organization/
 [Using the Azure CLI]: virtual-machines-command-line-tools.md
+
+test

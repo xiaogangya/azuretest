@@ -26,3 +26,4 @@ This page has moved: [please go here](app-insights-windows-get-started.md).
 
 
  
+test

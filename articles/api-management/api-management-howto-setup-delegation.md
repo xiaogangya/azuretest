@@ -179,3 +179,4 @@ For more information on delegation, see the following video.
 [example code provided below]: #delegate-example-code
 
 [api-management-delegation-signin-up]: ./media/api-management-howto-setup-delegation/api-management-delegation-signin-up.png 
+test

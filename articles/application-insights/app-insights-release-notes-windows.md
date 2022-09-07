@@ -1,5 +1,5 @@
 <properties 
-	pageTitle="Release notes for Application Insights" 
+	pageTitle="Release notes for Application Insights for Windows" 
 	description="The latest updates." 
 	services="application-insights" 
     documentationCenter=""
@@ -76,3 +76,4 @@ See [Get started with Application Insights for Windows Phone and Store apps](app
 ## Version 0.13
 
 No release notes for older versions available. 
+test

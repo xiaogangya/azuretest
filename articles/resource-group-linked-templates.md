@@ -1,7 +1,7 @@
 <properties
-   pageTitle="Using Linked Templates with Azure Resource Manager"
+   pageTitle="Using linked templates with Azure Resource Manager"
    description="Describes how to use linked templates in an Azure Resource Manager template to create a modular template solution. Shows how to pass parameters values, specify a parameter file, and dynamically created URLs."
-   services="na"
+   services="azure-resource-manager"
    documentationCenter="na"
    authors="tfitzmac"
    manager="wpickett"
@@ -13,10 +13,10 @@
    ms.topic="article"
    ms.tgt_pltfrm="na"
    ms.workload="na"
-   ms.date="07/15/2015"
+   ms.date="09/02/2015"
    ms.author="tomfitz"/>
 
-# Using Linked Templates with Azure Resource Manager
+# Using linked templates with Azure Resource Manager
 
 From within one Azure Resource Manager template, you can link to another template which enables you to decompose your deployment into a set of targeted, purpose-specific templates. Just as with decomposing an application 
 into a number of code classes, decomposition provides benefits in terms of testing, re-use, and readability.  
@@ -48,6 +48,14 @@ linking to a parameter file. The following example uses the **parameters** prope
       } 
     ] 
 
+Resource Manager must be able to access the linked template, which means you cannot specify a local file for the linked template. You can only provide a URI value that includes either **http** or **https**. One option is to place your linked template in a storage account, and use the URI for that item, such as shown below.
+
+    "templateLink": {
+        "uri": "http://mystorageaccount.blob.core.windows.net/templates/template.json",
+        "contentVersion": "1.0.0.0",
+    }
+
+
 ## Linking to a parameter file
 
 The next example uses the **parametersLink** property to link to a parameter file.
@@ -70,6 +78,8 @@ The next example uses the **parametersLink** property to link to a parameter fil
          } 
       } 
     ] 
+
+The the URI value for the linked parameter file cannot be a local file, and must include either **http** or **https**.
 
 ## Using variables to link templates
 
@@ -106,3 +116,5 @@ If you need to pass a value from linked template to the main template, you can c
 ## Next steps
 - [Authoring templates](./resource-group-authoring-templates.md)
 - [Deploying templates](azure-portal/resource-group-template-deploy.md)
+
+test

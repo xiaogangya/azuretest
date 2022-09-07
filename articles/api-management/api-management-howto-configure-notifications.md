@@ -113,3 +113,4 @@ Click **Preview** or **Send a test** to see how the email will look or send a te
 
 [Get started with Azure API Management]: api-management-get-started.md
 [Create an API Management service instance]: api-management-get-started.md#create-service-instance
+test

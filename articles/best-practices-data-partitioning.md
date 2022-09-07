@@ -476,3 +476,5 @@ The following patterns may also be relevant to your scenario when considering st
 - The page [Partitioning: how to split data among multiple Redis instances](http://redis.io/topics/partitioning) on the Redis website provides information on implementing partitioning with Redis.
 - The page [Running Redis on a CentOS Linux VM in Azure](http://blogs.msdn.com/b/tconte/archive/2012/06/08/running-redis-on-a-centos-linux-vm-in-windows-azure.aspx) on the Microsoft website walks through an example showing how to build and configure a Redis node running as an Azure VM.
 - The [Data Types](http://redis.io/topics/data-types) page on the Redis website describes the data types that are available with Redis and Azure Redis Cache.
+
+test

@@ -19,3 +19,5 @@ The following steps show the process for creating a Dropbox app using the Dropbo
 	This page also has a field where you can enter a Redirect URI, the value of which you'll get in the next section.
 
 	![Create Dropbox app](./media/app-service-api-create-dropbox-app/dbappsettings.png)
+
+Thanks

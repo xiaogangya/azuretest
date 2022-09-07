@@ -1,7 +1,7 @@
 <properties 
 	pageTitle="Move Resources to New Resource Group" 
 	description="Use Azure PowerShell or REST API to move resources to a new resource group for Azure Resource Manager." 
-	services="" 
+	services="azure-resource-manager" 
 	documentationCenter="" 
 	authors="tfitzmac" 
 	manager="wpickett" 
@@ -13,10 +13,10 @@
 	ms.tgt_pltfrm="na" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="07/14/2015" 
+	ms.date="08/20/2015" 
 	ms.author="tomfitz"/>
 
-# Move Resources to New Resource Group or Subscription
+# Move resources to new resource group or subscription
 
 This topic shows how to move resources from one resource group to another resource group. You can also move resources to a new subscription. You may need to move resources when you decide that:
 
@@ -33,7 +33,7 @@ not change the location of the resource.
 new version is available. For more information, see [How to install and configure Azure PowerShell](powershell-install-configure.md).
 4. The move operation can take a while to complete and during that time your PowerShell prompt will wait until the operation has completed.
 
-## Supported Services
+## Supported services
 
 Not all services currently support the ability to move resources.
 
@@ -46,6 +46,7 @@ For now, the services that support moving to both a new resource group and subsc
 - Mobile Engagement
 - Operational Insights
 - Redis Cache
+- Azure Web Apps (some [limitations](app-service-web/app-service-move-resources.md) apply)
 
 The services that support moving to a new resource group but not a new subscription are:
 
@@ -55,6 +56,11 @@ The services that support moving to a new resource group but not a new subscript
 The services that currently do not support moving a resource are:
 
 - Virtual Networks
+
+When working with web apps, you cannot move only an App Service plan. To move web apps, your options are:
+
+- Move all of the resources from one resource group to a different resource group, if the destination resource group does not already have Microsoft.Web resources.
+- Move the web apps to a different resource group, but keep the App Service plan in the original resource group.
 
 ## Using PowerShell to move resources
 
@@ -91,8 +97,10 @@ In the request, include a JSON object that defines the target resource group and
         ]
     }
 
-## Next Steps
+## Next steps
 - [Using Azure PowerShell with Resource Manager](./powershell-azure-resource-manager.md)
 - [Using the Azure CLI with Resource Manager](./virtual-machines/xplat-cli-azure-resource-manager.md)
 - [Using the Azure Portal to manage resources](azure-portal/resource-group-portal.md)
 - [Using tags to organize your resources](./resource-group-using-tags.md)
+
+test

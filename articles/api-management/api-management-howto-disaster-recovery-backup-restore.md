@@ -188,3 +188,4 @@ Check out the following Microsoft blogs for two different walkthroughs of the ba
 [api-management-arm-token]: ./media/api-management-howto-disaster-recovery-backup-restore/api-management-arm-token.png
 [api-management-endpoint]: ./media/api-management-howto-disaster-recovery-backup-restore/api-management-endpoint.png
  
+test

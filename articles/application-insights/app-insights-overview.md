@@ -12,7 +12,7 @@
 	ms.tgt_pltfrm="ibiza" 
 	ms.devlang="na" 
 	ms.topic="article" 
-	ms.date="07/14/2015" 
+	ms.date="08/12/2015" 
 	ms.author="awills"/>
  
 # What is Application Insights?
@@ -39,6 +39,9 @@ Telemetry data collected from your application is stored and analysed in the Azu
 
 ![Chart user activity statistics, or drill into specific events.](./media/app-insights-overview/00-sample.png)
 
+Want even deeper analysis? [Export](app-insights-export-telemetry.md) your data [to SQL](app-insights-code-sample-export-telemetry-sql-database.md), [to Power BI](app-insights-export-power-bi.md), or your own tools.
+
+![Viewing data in Power BI](./media/app-insights-overview/210.png)
 
 ## Platforms and languages
 
@@ -72,9 +75,12 @@ For ASP.NET servers and Azure web apps, you can also install [Status Monitor][re
 * Monitor a web app without re-building or re-installing it.
 * Track calls to dependent modules.
 
+
+
 ### What's the overhead?
 
 The impact on your performance is very small. Tracking calls non-blocking, and are batched and sent in a separate thread. 
+
 
 
 ## To get started
@@ -96,6 +102,13 @@ The impact on your performance is very small. Tracking calls non-blocking, and a
 
 
 For more details, choose your app type under Get Started in the navigation bar on the left of this page.
+
+## Code
+
+
+[Samples and walkthroughs](app-insights-code-samples.md)
+
+[SDK Labs](https://www.myget.org/gallery/applicationinsights-sdk-labs) - NuGet packages you can install (and uninstall) as additions to Application Insights SDK. Try them out and give us feedback!
 
 
 ## Support and feedback
@@ -138,3 +151,4 @@ For more details, choose your app type under Get Started in the navigation bar o
 [windows]: app-insights-windows-get-started.md
 
  
+test

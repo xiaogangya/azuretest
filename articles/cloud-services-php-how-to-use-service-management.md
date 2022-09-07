@@ -554,3 +554,5 @@ You can delete an affinity group by passing the group name to the **deleteAffini
 
 
 [Azure Service Configuration Schema (.cscfg)]: http://msdn.microsoft.com/library/windowsazure/ee758710.aspx
+
+test

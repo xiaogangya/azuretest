@@ -24,3 +24,5 @@
 	On the **Hybrid connections** blade, the **Status** column now shows **Connected**. 
 	
 	![Connected Status](./media/app-service-hybrid-connections-manager-install/D10HCStatusConnected.png)
+
+Hello

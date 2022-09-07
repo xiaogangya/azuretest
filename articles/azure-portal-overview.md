@@ -14,7 +14,7 @@
 	ms.devlang="na" 
 	ms.topic="hero-article"
 	ms.date="04/28/2015"
-	ms.author="dwrede"/>
+	ms.author="dwrede1"/>
 
 # Microsoft Azure preview portal overview
 
@@ -97,3 +97,5 @@ The Microsoft Azure preview portal radically simplifies building and managing yo
 [ManageResource]: ./media/azure-portal-how-to-use/azure_portal_4.png
 [CustomizeBlades]: ./media/azure-portal-how-to-use/azure_portal_5.png
 [HelpSupport]: ./media/azure-portal-how-to-use/azure_portal_6.png
+
+test

@@ -101,3 +101,4 @@ If you build in release configuration, events are stored in the device and sent 
 [windows]: app-insights-windows-get-started.md
 
  
+test

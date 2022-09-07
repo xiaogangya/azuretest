@@ -1,7 +1,7 @@
 <properties
 	pageTitle="Best Practices for Handling State in Azure Resource Manager Templates"
 	description="Shows recommended approaches for using complex objects to share state data with Azure Resource Manager templates and linked templates"
-	services="virtual-machines"
+	services="azure-resource-manager"
 	documentationCenter=""
 	authors="mmercuri"
 	manager="georgem"
@@ -13,12 +13,12 @@
 	ms.tgt_pltfrm="na"
 	ms.devlang="na"
 	ms.topic="article"
-	ms.date="07/15/2015"
+	ms.date="09/02/2015"
 	ms.author="mmercuri"/>
 
-# Sharing State in Azure Resource Manager Templates
+# Sharing state in Azure Resource Manager templates
 
-This topic describes how to manage and share state within an Azure Resource Manager template and across linked templates.
+This topic shows best practices for managing and sharing state within an Azure Resource Manager template and across linked templates. The parameters and variables shown in this topic are examples of the type of objects you can define to conveniently organize your deployment requirements. From these examples, you can implement your own objects with property values that make sense for your environment.
 
 ## Using complex objects to share state
 
@@ -385,7 +385,7 @@ The following example shows how to pass the private IP address generated in a li
 
     "outputs": {
         "masterip": {
-            "value": "[reference(concat(variables('nicName'),0)).ipConfigurations[0].properties.privateIPAddress]",
+            "value": "[reference(concat(variables('nicName'),0)).ipConfigurations[0].privateIPAddress]",
             "type": "string"
          }
     }
@@ -396,7 +396,9 @@ Within the main template, you can use that data with the following syntax:
         "value": "[reference('master-node').outputs.masterip.value]"
     }
 
-## Next Steps
+## Next steps
 - [Authoring Azure Resource Manager Templates](resource-group-authoring-templates.md)
 - [Azure Resource Manager Template Functions](resource-group-template-functions.md)
 
+
+test

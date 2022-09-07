@@ -67,3 +67,4 @@ The following are new features and updates in the Azure SDK for .NET 2.5.1.
 - API App consumption via the "Add Azure API App Client" context menu is only supported in C#.
 
  
+test

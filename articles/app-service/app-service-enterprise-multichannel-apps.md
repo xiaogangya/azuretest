@@ -100,3 +100,5 @@ For more information, see [Azure Application Services][AzureApplicationServices]
 [SharepointList]: ./media/app-service-enterprise-multichannel-apps/04aSharepointList.png
 [SharepointDocumentLibrary]: ./media/app-service-enterprise-multichannel-apps/05aSharepointDocumentLibrary.png
 [SalesforceIntegration]: ./media/app-service-enterprise-multichannel-apps/06aSalesforceIntegration.png 
+
+test
